@@ -1,1 +1,8 @@
 theme: jekyll-theme-cayman
+title: Improbable info
+description: Wszystko, co czytałeś wcześniej, jest już przeszłością
+show_downloads: false
+google_analytics:
+
+plugins:
+  - jemoji

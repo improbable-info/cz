@@ -1,0 +1,31 @@
+.main-content p {
+    text-align: justify;
+    /* text-indent: 3em; */ 
+}
+
+.page-header h1 a {
+    color: #faebd7;
+    text-decoration: none;
+}
+
+.page-header {
+    background-color: #073147;
+    background-image: url(../img/bgimage-blur.jpg)
+}
+
+.btn {
+    text-decoration: none;
+    color: #faebd7;
+    background-color: rgba(0,0,0,0.3);
+    border-color: rgba(0,0,0,0.2);
+}
+
+.btn:hover {
+    text-decoration: none;
+    background-color: rgba(0,0,0,0.5);
+    border-color: rgba(0,0,0,0.3);
+}
+
+a {
+    text-decoration: underline;
+}
