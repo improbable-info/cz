@@ -1,19 +1,19 @@
-## Nowy model Wszechświata
+## Nový model Vesmíru
 
-Jiří Šrajer: na początek parę zdań [o mnie](autor).
+Jiří Šrajer: na začátek několik vět [o mně](autor).
 
-W trakcie rozważań nad sztuczną inteligencją zainteresowało mnie pytanie,
-jakie wyobrażenie o świecie mogłyby sobie utworzyć w przyszłości inteligentne komputery
-i jak znacznie mogłoby się ono różnić od naszego.
-Uświadomiłem sobie, że nasze wyobrażenie wcale nie musi być prawidłowe
-i moje przemyślenia opisałem w książce [Prawdopodobnie wszystko jest inaczej](prawdopodobnie).
-Jednym z poruszonych tematów była kwestia geometrii Wszechświata.
-Na początku chciałem tylko pokazać, że może być inaczej niż uważamy,
-ale czasem doszedłem do wniosku, że nasze wyobrażenie jest blędne
-i jest potrzebne utworzyć nowy model czasoprzestrzeni.
-Po kilkuletniej intenzywnej pracy spisałem podstawowe idee nowego modelu
-w książce [Krótka rozprawa o czasoprzestrzeni](czasoprzestrzen).
-Aktualnie pracuję nad komputerowym modelem Wszechświata według moich założeń.
+Během přemítání o umělé inteligenci zaujala mne otázka,
+jakou představu o světě by si mohly v budoucnu utvořit inteligentní počítače
+a jak hodně by se jejich představa mohla lišit od naší.
+Uvědomil jsem si, že naše představa vůbec nemusí být správná 
+a moje nápady i pochybnosti jsem sepsal v knížce [Pravděpodobně všechno je jinak](prawdopodobnie).
+Jedním z témat byla otázka geometrie Vesmíru.
+Zpočátku jsem chtěl pouze ukázat, že můẑe být jinak, než si představujeme,
+ale časem jsem dospěl k přesvědčení, že naše představa je zlá
+a že je nutné utvořit nový model prostoroĉasu.
+Po několikaleté intenzivní práci jsem sepsal základní idee nového modelu
+v knížce [Krátké pojednání o prostoročasu](czasoprzestrzen).
+Aktuálně pracuji nad počítačovým modelem Vesmíru podle mojich předpokladů.
 
-Dla zainteresowanych podaję [Dodatkowe informacje](dodatki)
-i [Kontakt](kontakt).
+Pro vážné zájemce uvádím jeŝtê [Dodatatečné informace](dodatki)
+a [Kontakt](kontakt).
