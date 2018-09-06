@@ -1,14 +1,14 @@
-## O autorze
+## O autoru
 
 ![autor](assets/img/autor.jpg)
-Jiří Šrajer urodził się w Opawie w Czechach w 1950 roku.
-Studiował matematykę na Uniwersytecie im Karola w Pradze.
-Ponad 30 lat pracował jako informatyk w różnych firmach
-(jako programista, analityk albo administrator).
-Od 1988 roku mieszka na stałe w Polsce.
-Współzałożyciel i wieloletni prezes Stowarzyszenia Programistów i Nieprogramistów SPIN w Biskupcu,
-które między innymi zajmowało się wykorzystaniem sztucznej inteligencji w grach logicznych
-i organizowało turnieje programów komputerowych.
-W trakcie pisania książki PRAWDOPODOBNIE WSZYSTKO JEST INACZEJ dotyczące sztucznej inteligenci
-uświadomił sobie, że nasze wyobrażenie o geometrii Wszechświata jest prawdopodobnie mylne i
-rozpoczął intensywne prace nad nowym modelem czasoprzestrzeni.
+Jiří Šrajer se narodil v Opavě v roce 1950.
+Vystudoval matematiku na Karlově Univerzitě v Praze.
+Více než 30 let pracoval jako informatik v různých firmách
+(jako programátor, analytik anebo administrátor).
+Od roku 1988 bydlí trvale v Polsku.
+Byl jedním ze zakladatelů a přes mnoho let také předsedou Sdružení Programátorů i Neprogramátorů SPIN v Biskupci,
+které se kromě jiného zabývalo též využitím umělé inteligence v logický hrách
+a organizovalo turnaje počítačových programů.
+Během psaní knížky PRAVDĚPODOBNĚ VŠECHNO JE JINAK týkajicí se umělé inteligence
+si uvědomil, že naše představa o geometrii Vesmíru je pravděpodobně zlá a
+začal intenzivně pracovat nad novým modelem prostoričasu.
