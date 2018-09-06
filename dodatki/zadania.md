@@ -1,17 +1,17 @@
-## Zadania matematyczno-logiczne
+## Matematické a logické úlohy
 
-Zadanie 1:
+Úloha 1:
 
-Jeżeli półtora kury w ciągu półtora dnia zniesie półtora jajka, to ile jajek zniesie 9 kur w ciągu 9 dni?
+Jestliže jeden a půl slepice snese za jeden a půl dne jeden a půl vejce, to kolik vajec snese 9 slepic za 9 dní?
 
-Zadanie 2:
+Úloha 2:
 
-Jaka jest następna liczba w ciągu liczbowym
+Jaké je následující číslo v posloupnosti:
 
 246,56,61,37,58,89,145,42,?
 
-Zadanie 3:
+Úloha 3:
 
-Ile wynosi pole całego trójkąta, jeżeli pola jego części wynoszą tyle, jak zaznaczono na rysunku?
+Urči  obsah celého trojúhelníku, jestliže obsah jeho částí je takový jak na obrázku:
 
-![zadanie](../assets/img/zadanie.jpg)
+![Úloha 3:](../assets/img/zadanie.jpg)
