@@ -1,4 +1,4 @@
-## O autoru
+## O autorovi
 
 ![autor](assets/img/autor.jpg)
 Jiří Šrajer se narodil v Opavě v roce 1950.
@@ -11,4 +11,4 @@ které se kromě jiného zabývalo též využitím umělé inteligence v logick
 a organizovalo turnaje počítačových programů.
 Během psaní knížky PRAVDĚPODOBNĚ VŠECHNO JE JINAK týkajicí se umělé inteligence
 si uvědomil, že naše představa o geometrii Vesmíru je pravděpodobně zlá a
-začal intenzivně pracovat nad novým modelem prostoričasu.
+začal intenzivně pracovat nad novým modelem prostoročasu.
