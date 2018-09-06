@@ -1,4 +1,4 @@
-## Linki do zalecanych stron
+## Doporučené strany WWW
 
 [{filmik Geometria Wszechświata I}   http://youtu.be/7RtpQhs9tF0](http://youtu.be/7RtpQhs9tF0)
 
