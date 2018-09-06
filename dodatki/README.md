@@ -1,9 +1,9 @@
-## Dodatkowe informacje, kontakt
+## Dodatečné informace, kontakt
 
-### [Automaty komórkowe](automaty.md)
+### [Buněčné automaty](automaty.md)
 
-### [Zadania matematyczno-logiczne](zadania.md)
+### [Matematické a logické úlohy](zadania.md)
 
-### [Linki do zalecanych stron](linki.md)
+### [Doporučené strany WWW](linki.md)
 
 ### [Kontakt](kontakt.md)
