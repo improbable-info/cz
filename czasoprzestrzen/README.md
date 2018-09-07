@@ -1,33 +1,33 @@
-## Krótka rozprawa o czasoprzestrzeni
+## STRUČNÉ POJEDNÁNÍ O PROSTOROČASU
 
-### Spis treści
+### Obsah
 
-[Wprowadzenie](wprowadzenie)
+[Úvod](wprowadzenie)
 
-[I. Jak powstaje model Wszechświata](rozdzial1)
+[I. Jak vzniká model vesmíru](rozdzial1)
 
-[II. Widzialna część Wszechświata](rozdzial2)
+[II. Viditelná část vesmíru](rozdzial2)
 
-[III. Matematyka i mózg](rozdzial3)
+[III. Matematika a mozek](rozdzial3)
 
-[IV. Geometrie nieeuklidesowe i ustalanie odległości](rozdzial4)
+[IV. Neeuklidovské geometrie a určování vzdáleností](rozdzial4)
 
-[V. Kilka zdań o liczbach zespolonych](rozdzial5)
+[V. Několik úvah o komplexních číslech](rozdzial5)
 
-[VI. Co rozumiemy pod pojęciem czasu?](rozdzial6)
+[VI. Co máme na mysli pod pojmem čas?](rozdzial6)
 
-[VII. Wszechświat jako automat komórkowy](rozdzial7)
+[VII. Vesmír jako buněčný automat](rozdzial7)
 
-[VIII. Parę słów na temat przestrzeni](rozdzial8)
+[VIII. Několik slov o prostoru](rozdzial8)
 
-[IX. Pierwsze uwagi o czasoprzestrzeni](rozdzial9)
+[IX. První úvahy o prostoročasu](rozdzial9)
 
-[X. Zasada względności w czasoprzestrzeni](rozdzial10)
+[X. Princip relativity v prostoročasu](rozdzial10)
 
-[XI. Zespolony czas i interwał czasoprzestrzenny](rozdzial11)
+[XI. Komplexní čas a prostoročasový interval](rozdzial11)
 
-[XII. Wiry i deformacje czasoprzestrzeni](rozdzial12)
+[XII. Víry a deformace prostoročasu](rozdzial12)
 
-[XIII.Zakończenie](rozdzial13)
+[XIII.Závěr](rozdzial13)
 
 [Literatura](literatura)
