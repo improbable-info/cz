@@ -1,137 +1,120 @@
-## II. Widzialna część Wszechświata
+## II. Viditelná část vesmíru
 
-*To, że w ogóle mamy jakieś informacje o kosmosie zawdzięczamy temu, że kosmos jest wypełniony różnymi falami.
-Obraz wszechświata budujemy tylko na podstawie fal, które docierają do nas i które potrafimy zarejestrować.
-Na podstawie doświadczenia z małych odległości uważamy, że widziane obiekty znajdują się w kierunku,
-z którego do nas dochodzi od nich światło i w odległości równej torowi światła od obiektu do nas.
-Jednak nie zawsze to musi być prawda ...*
+*Za to, že vůbec máme jakékoliv informace o vesmíru, vděčíme  tomu, že vesmír je vyplněn nejrůznějším vlněním.
+Obraz vesmíru tvoříme pouze na základě vln, které k nám dorazí a které umíme zaregistrovat.
+Na základě našich zkušeností z malých vzdáleností se domníváme, že viděné objekty se nacházejí ve směru,
+z kterého k nám přichází od nich světlo a ve vzdálenosti rovné dráze světla od objektu k nám.
+Obecně to nemusí být pravda ...*
 
-Moje rozważania na temat geometrii wszechświata rozpoczęły się od następujących uwag:
+Moje první úvahy o geometrii vesmíru probíhaly zhruba následujícím způsobem:
 
-Ze względu na skończoną szybkość światła nie widzimy obiektów na niebie takimi, jakimi są w tej chwili,
-tylko jak wyglądały jakiś czas temu. Słońce widzimy tak, jak wyglądało około 8 minut temu,
-najbliższe gwiazdy kilka lat temu a oddalone galaktyki miliardy lat temu.
-Najbardziej oddalone od nas obiekty są najstarsze.
-Można sobie wyobrazić, że znajdują się na ogromnej sferze o promieniu wielu miliardów lat świetlnych.
+Vzhledem na konečnou rychlost světla nevidíme objekty na nebi tak, jak vypadají v tuto chvíli,
+ale tak, jak vypadaly před nějakým časem. Slunce vidíme tak, jak vypadalo před okolo 8 minutami,
+nejbližší hvězdy před několika lety a vzdálené galaxie před miliardami let.
+Nejvzdálenější objekty jsou nejstarší. Můžeme si představit, že se nacházejí  na ohromné sféře
+o průměru mnoha miliard světelných let.
 
-Jednak, jeżeli wszechświat na początku był mały, to ta najstarsza sfera nie może być duża.
-Nie ma to specjalnego znaczenia, czy na tej fikcyjnej sferze znajdują się jakieś konkretne obiekty
-czy też nie, nawet to, czy w ogóle już wtedy było światło.
-Jeżeli wszechświat na początku znajdował się w jednym punkcie, to dla nas ten punkt znajduje się najdalej
-ze wszystkiego. I to co jest najdalej od nas, wydaje nam się być ogromną sferą ...
+Jenomže jestliže budeme předpokládat, že vesmír byl zpočátku malý, pak ta nejstarší sféra nemůže být velká.
+Není důležité, zda na té pomyslné ohromné sféře vidíme nějaké konkrétní objekty nebo ne.
+Není pro nás v tuto chvíli ani důležité, zda již tehdy bylo světlo.
+Jestliže se vesmír zpočátku nacházel v jednom bodě, potom pro nás ten bod leží nejdále ze všeho.
+A to, co je nejdále od nás se nám jeví jako ohromná sféra ...
 
-Jak wytłumaczyć, że coś małego wydaję nam się tak ogromne? W pierwszej chwili zdaje się to być absurdalne.
-Jak cały wszechświat może być wewnątrz małej sfery, czy nawet jednego punktu? 
+Jak vysvětlit, že něco malého se nám zdá tak velké? V první chvíli se to zdá absurdní.
+Jak se celý vesmír může nacházet uvnitř malé sféry nebo dokonce uvnitř jednoho bodu?  
 
-*Zanim pójdziemy dalej, zróbmy następujący eksperyment myślowy.
-Wyobraźmy sobie, że na powierzchni kuli ziemskiej są rozmieszczone światełka i do każdego z nich
-jest pociągnięty światłowód wzdłuż południków.
-My siedzimy w okrągłym pomieszczeniu na biegunie północnym i dookoła mamy ekrany,
-na których możemy obserwować wszystkie światełka.
-Patrząc przez okno widzimy prosto naciągnięte światłowody, i wyobrażamy sobie,
-że każde światełko znajduje się w linii prostej biegnącej w kierunku, w którym podłączony jest światłowód.
-Możemy też ustalić długość każdego światłowodu
-(na przykład przez wysłanie światłowodem sygnału świetlnego i zaczekanie na jego odbicie).
-Tą długość postrzegamy, jako odległość światełka od nas w linii prostej.
-Punkty jednakowo od nas oddalone będą leżały na równoleżnikach.*
+*Než budeme pokračovat, zkusme  provést následující myšlenkový experiment.
+Představme si, že na povrchu zeměkoule jsou rozmístěna světélka a do každého podél poledníku vede světlovod.
+My sedíme v kruhové místnosti na severním pólu a dokola máme obrazovky, na kterých můžeme sledovat všechna světélka.
+Přes okno vidíme do všech stran natažené světlovody i představujeme si, že každé světélko se nachází v přímé linii
+ve směru, v kterém vychází z místnosti světlovod. Můžeme též určit délku každého světlovodu
+(například vysláním světlovodem světelného signálu a  počkáním na jeho návrat),
+kterou chápeme jako vzdálenost světélka od nás. Body od nás stejně vzdálené budou ležet na rovnoběžkách.*
 
-*Jeżeli będziemy przekonani, że wszystkie światełka znajdują się w jednej płaszczyźnie,
-to możemy na kartce papieru narysować odpowiednią mapę.
-Poszczególnym równoleżnikom coraz bardziej od nas oddalonym będą odpowiadały koła o coraz większym promieniu.
-Kiedy przekroczymy równik, długości równoleżników będą się zmniejszać,
-ale promienie okręgów na naszej mapie będą dalej rosły.
-Najbardziej odległym punktem, który możemy zobaczyć, jest biegun południowy.
-Zobaczymy go w każdym kierunku, w którym popatrzymy i jawi się nam on jako ogromne koło,
-które zawiera wszystkie inne punkty ...*
+*Jestliže budeme přesvědčeni, že všechna světélka se nacházejí v jedné rovině,
+pak můžeme na listu papíru narýsovat příslušnou mapu.
+Jednotlivým rovnoběžkám čím dál od nás vzdálenějších budou odpovídat kružnice o čím dál větlším poloměru.
+Ve chvíli, kdy překročíme rovník, délky rovnoběžek se budou zmenšovat,
+ale poloměry kružnic na naší mapě se budou dále zvětšovat. Nejvzdálenějšim bodem, který můžeme pozorovat
+je jižní pól. Budeme ho vidět v každém směru, kdekoliv se podíváme a bude se nám jevit jako ohromné kolo, ve kterém jsou všechny ostatní body...*
 
-Wróćmy do problemu, jak wyobrazić sobie rozmieszczenie obiektów w czasoprzestrzeni
-i ustalić tor światła w rozszerzającym się Wszechświecie. Mój tok myślenia był następujący:
+Vraťme se k problému, jak si představit rozmístění objektů v prostoročasu a určit dráhu světla v rozpínajícím se vesmíru.
+Můj způsob myšlení byl následující:
 
-Cały widzialny Wszechświat możemy sobie wyobrazić jakoby poukładany ze sfer wokół nas o coraz większym promieniu.
-Im większy promień, tym starsza sfera (rys.1).
+Celý viditelný vesmír si můžeme představit jakoby poskládaný ze sfér o čím dál větším poloměru.
+Přitom čím větší poloměr, tím starší sféra (obr.1).
 
-![rysunek1](../assets/img/rysunek1.png)
+![Obrázek 1](../assets/img/rysunek1.png)
 
-Rysunek 1.
+Obrázek 1.
 
-Jeżeli dodamy czas jako następny wymiar i każdą sferę umieścimy w odpowiednim czasie,
-to sfery utworzą czterowymiarowy stożek (rys.2).
+Jestliže dodáme čas jako další rozměr a každou sféru umístíme v odpovídajícím čase,
+pak sféry vytvoří čtyřrozměrný kužel (obr.2).
 
-![rysunek2](../assets/img/rysunek2.png)
+![Obrázek2](../assets/img/rysunek2.png)
 
-Rysunek 2.
+Obrázek 2.
 
-*Jeżeli ktoś ma trudności z wyobrażeniem sobie czterowymiarowego stożka,
-może odjąć jeden wymiar i wyobrazić sobie tylko przekrój przez widzialny Wszechświat.
-Zamiast sfer, które przetnie w myśli płaszczyzną, otrzyma układ koncentrycznych okręgów w płaszczyźnie,
-które po dodaniu czasu, jako następnego wymiaru utworzą zwykły stożek.*
+*Jestliže má někdo problémy s představením si čtyřrozměrného kužele, může ubrat jednu dimenzi
+a omezit se pouze na řez viditelným vesmírem. Místo sfér (které  v mysli protneme rovinou),
+dostaneme systém soustředných kružnic v rovině,
+které po přidání času jako dalšího rozměru utvoří povrch obyčejného kužele.*
 
+Jestliže se vesmír rozpíná, pak při couvání v čase se musí zmenšovat.
+Nejstarší sféry musí být malé (obr.3).  
 
-Jeżeli Wszechświat rozszerza się, to przy cofaniu w czasie musi się kurczyć. Sfery najstarsze muszą być małe (rys.3). 
+![Obrázek3](../assets/img/rysunek3.jpg)                       
 
-![rysunek3](../assets/img/rysunek3.jpg)                       
+Obrázek 3.
 
-Rysunek 3.
+Objekty, o kterých si myslíme, že jsou od sebe velmi vzdálené, mohou být v prostoročasu blízko sebe (obr.4).
 
+![Obrázek4](../assets/img/rysunek4.jpg)
 
-Obiekty, które nam wydają się bardzo od siebie odlegle, mogą być w czasoprzestrzeni blisko siebie (rys.4).
+Obrázek 4.
 
-![rysunek4](../assets/img/rysunek4.jpg)
+Jestliže si představíme viditelnou část vesmíru jako systém různě starých sfér,
+které jsou odpovídajícím způsobem zmenšené a rozmístěné v prostoročasu,
+vyřešíme několik kosmologických problémů najednou. Přestane být problémem homogenita reliktního záření,
+jestliže si uvědomíme, že i když se nám zdá, že záření přichází ze všech stran z velkých vzdáleností,
+přichází vlastně z malé oblasti prostoročasu (obr.5).
 
-Rysunek 4.
+![Obrázek5](../assets/img/rysunek5.jpg)
 
-Jeżeli wyobrazimy sobie widzialną część Wszechświata,
-jako odpowiednio pomniejszone i rozłożone w czasoprzestrzeni sfery,
-to rozwiąże się jednocześnie kilka problemów kosmologicznych.
-Jednorodność promieniowania tła przestanie być problemem, jeżeli uświadomimy sobie,
-że promieniowanie tła, chociaż dociera do nas ze wszystkich stron z bardzo dużych odległości,
-przychodzi z małego obszaru czasoprzestrzeni (rys.5).
+Obrázek 5.
 
-![rysunek5](../assets/img/rysunek5.jpg)
+Je vidět, že v pozorovatelném vesmíru nejsou oblasti kauzálně disjunktivní, neboť čím jsou objekty dále od nás,
+tím jsou si blíž. Není potřebná kosmická inflace, čili ohromné  zvětšení vesmíru ve zlomku vteřiny,
+protože k ohromnému zvětšení rozměrů nejstarších sfér dochází pouze v naší představě.
+Pochopíme, že jestliže si někdo představuje jistou oblast zakřiveného prostoročasu jako nezakřivený trojrozměrný prostor,
+pak v takovém prostoru vzdálené oblasti musí být roztažené podobně, jak jsou roztažené oblasti na ploché mapě glóbu.
+V takovém prostoru se nám též musí zdát, že chybí ohromné množství hmoty i energie ...
 
-Rysunek 5.
+Vyplývá z toho, co jsme dosud řekli, něco o geometrii prostoru?
 
-Widać, że w obserwowalnym Wszechświecie nie ma obszarów przyczynowo rozłącznych,
-bo im są obiekty dalej od nas, tym są bliżej do siebie.
-Nie potrzebna jest kosmiczna inflacja,
-czyli ogromne zwiększenie rozmiarów Wszechświata w ułamku sekundy,
-bo do ogromnego rozciągnięcia najstarszych sfer dochodzi tylko w naszym umyśle.
-Zrozumiemy, że jeżeli ktoś wyobraża sobie zagięty obszar czasoprzestrzeni,
-jako niezakrzywioną trójwymiarową przestrzeń, to w takiej przestrzeni
-oddalone od nas obszary są rozciągnięte podobnie jak obszary na płaskiej mapie globu.
-W konsekwencji w takiej przestrzeni pozornie brakuje ogromnej ilości materii i energii ...
+Pouze to, že na základě přímého pozorování se nedá určit, zda je prostor zakřivený nebo nezakřivený.
+To co si představujeme jako nezakřivený trojrozměrný prostor se skládá z různě starých sfér
+rozmístěných nějak v prostoročasu, které navíc vidíme různě roztažené.
 
-Czy z tego, co do tej pory pokazaliśmy, wynika coś dotyczącego geometrii przestrzeni?
+(Předpoklad, že čas je lineární a prostoročas si můžeme představovat jako jednotlivé okamžité prostory
+poskládané jeden vedle druhého podél linie času, nemusí být pravdivý.
+Nezávisle na tom si ale můžeme viditelnou část vesmíru představovat jako systém různě starých sfér.)
 
-Tylko tyle, że na podstawie bezpośrednich obserwacji nie można stwierdzić,
-czy przestrzeń jest zakrzywiona czy niezakrzywiona.
-To, co sobie wyobrażamy, jako niezakrzywioną trójwymiarową przestrzeń,
-jest poskładane z różnych sfer w jakiś sposób rozmieszczonych w czasoprzestrzeni,
-które na dodatek widzimy rozciągnięte na różnorakie sposoby.
+Bez ohledu na to, jestli je prostor zakřivený nebo plochý, z každého okamžitého prostoru vidíme jen a pouze sféru.
+To nám neumožňuje určit zakřivení prostoru.
 
-Założenie, że czas jest liniowy i czasoprzestrzeń można rozumieć,
-jako poszczególne przestrzenie chwilowe poukładane obok siebie wzdłuż linii czasu,
-nie musi być prawdziwe. Bez względu na to, widzialny Wszechświat można rozumieć, jako system sfer
-o różnych parametrach czasowych.
+Současně je vidět, že jestliže chceme získat správý obraz vesmíru, musíme určit rozmístění objektů v prostoročasu.
+A tu se objevuje další problém. Jak určit vzdálenosti v prostoročasu?
+V matematických modelech se k tomu účelu používá prostoročasový interval
+(více o prostoročasovém intervalu bude ještě v kapitole o prostoročasu). Jestliže ho zkusíme použít v praxi,
+dosaneme hodnotu nula pro všechny objekty, které v danou chvíli vidíme.
+Ukazuje se, že prostoročasový interval v pozorovaném vesmíru není vzdálenost dvou událostí v prostoročasu,
+ale vzdálenost mezi světelným signálem o jedné události a druhou událostí.
 
-Niezależnie od tego, czy przestrzeń jest zakrzywiona czy płaska, z każdej przestrzeni chwilowej
-widzimy tylko i wyłącznie sferę. To nie daje żadnej możliwości ustalenia krzywizny przestrzeni.
+Jestliže chceme určit správné rozmístění objektů ve vesmíru, musíme nalézt vhodnější definici vzdálenosti v prostoročasu.
+Úkol není snadný. Abychom dobře pochopili problém, musíme přeanalyzovat celou cestu od vzniku pojmu prostoročasu
+až po určování vzdáleností v něm. Potom musíme  určit, při jakých předpokladech byl utvořen prostoročasový interval
+a které z těch předpokladů mohou být změněné. Nakonec musíme najít nějaké nové možnosti.
+Tu se neobejdeme bez trošky matematiky, pokusím se to udělat co nejpřístupnější formou.
 
-Widać jednocześnie, że do uzyskania prawidłowego obrazu Wszechświata należy ustalić
-rozmieszczenie obiektów w czasoprzestrzeni. I tu pojawia się kolejny problem.
-Jak ustalać odległości w czasoprzestrzeni? W modelach matematycznych używany jest w tym celu
-interwał czasoprzestrzenny. Jeżeli spróbujemy użyć go w praktyce, otrzymamy wartość zerową
-dla wszystkich obiektów, które w danej chwili widzimy.
-Okazuje się, że interwał czasoprzestrzenny w obserwowanym Wszechświecie nie jest odległością
-dwóch zdarzeń w czasoprzestrzeni, ale odległością sygnału świetlnego związanego z jednym zdarzeniem,
-od drugiego zdarzenia.
-
-Jeżeli chcemy ustalić prawidłowe rozmieszczenie obiektów we Wszechświecie,
-to musimy znaleźć bardziej odpowiednią definicję odległości w czasoprzestrzeni.
-Zadanie nie jest proste. Aby dobrze zrozumieć problem musimy przeanalizować całą drogę
-powstawania pojęcia czasoprzestrzeni i ustalania w niej odległości.
-Następnie musimy ustalić, przy jakich założeniach był utworzony interwał czasoprzestrzenny
-i które z tych założeń mogą być niewłaściwe. Następnie musimy znaleźć jakieś inne możliwości.
-Do tego będziemy potrzebować trochę matematyki. Postaram się zrobić to w jak najłagodniejszej formie.
-
-## [III. Matematyka i mózg](rozdzial3)
+## [III. Matematika a mozek](rozdzial3)
