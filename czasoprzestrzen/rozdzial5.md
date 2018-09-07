@@ -1,57 +1,48 @@
-## V. Kilka zdań o liczbach zespolonych
+## V. Několik úvah o komplexních číslech
+Kdo nezná komplexní čísla, může být překvapen, že něco takového vůbec existuje.
+Jak může být druhá mocnina nějakého čísla záporná, když přece druhá mocnina
+libovolného reálného čísla musí být nezáporná. No a o to právě jde, že v rámci reálných čísel neexistují
+druhé odmocniny ze záporných čísel a občas jsou potřebné.
 
-Kto nie zna liczb zespolonych, może być zdziwiony, że coś takiego w ogóle istnieje.
-Jak może być kwadrat jakieś liczby ujemny, skoro przecież kwadrat dowolnej liczby rzeczywistej
-musi być nieujemny. Otóż, o to właśnie chodzi, że w ramach liczb rzeczywistych
-nie ma pierwiastków liczb ujemnych a czasami są potrzebne.
+Proč vůbec lidé potřebují čísla?  Kdysi dávno se obešli i bez nich.
+Můžeme předpokládat, že nejdříve byla potřebná malá přirozená čísla,  aby bylo možné spočítat členy skupiny
+nebo kusy zvířat. Během času se lidé naučili sčítat. Sečtením dvou přirozených čísel dostaneme zase přirozené číslo,
+jenom trochu větší. Horní hranice používaných čísel se zvětšovala souběžně s tím,
+jak se zvětšovalo množství lidí ve skupině a množství používaných předmětů a chovaných zvířat.
+Později se lidé naučili odčítat. Dlouhou dobu se ale odčítala pouze menší čísla od větších.
+Zdálo se nemožné, aby něčeho mohlo být záporné množství.
+Teprve když se ve společnosti objevily půjčky, lidé pochopili, jak užitečná mohou být záporná čísla.
 
-Dlaczego właściwie ludzie potrzebują liczb? Kiedyś dawno obchodzili się bez nich.
-Można zakładać, że najpierw potrzebne były małe liczby naturalne, aby policzyć członków grupy
-czy sztuki zwierząt. Z czasem nauczono się dodawać.
-Przez dodanie dwóch liczb naturalnych otrzymamy ponownie liczbę naturalną, tylko trochę większą.
-Górna granica używanych liczb podnosiła się wraz ze zwiększeniem ilości członków w grupie
-lub ilości używanych przedmiotów albo hodowanych zwierząt. Później nauczono się odejmować.
-Przez długi czas odejmowano tylko mniejsze liczby od większych.
-Wydawało się niemożliwe, żeby ilość mogła być ujemna. Dopiero, kiedy pojawiły się pożyczki,
-zrozumiano, jak pożyteczne mogą być liczby ujemne.
+*Zároveň tu vidíme, že interpretace čísel a výpočtů není vůbec tak jednoznačná a evidentní, jak si někdy myslíme.
+Trvalo to stovky let, než se lidé naučili běžně používat záporná čísla.
+S komplexními čísly to bude trvat možná ještě déle ...*
 
-*Wynika z tego, że interpretacja liczb i obliczeń wcale nie jest tak jednoznaczna i ewidentna,
-jak czasem myślimy. Zajęło to setki lat, zanim ludzie nauczyli się powszechnie używać liczb ujemnych.
-Z liczbami zespolonymi może to potrwać jeszcze dłużej...*
+Přirozená čísla spolu s jejich zápornými protějšky a nulou dávají celá čísla.
+V rámci celých čísel můžeme libovolně sčítat a odčítat a výsledek bude vždy celé číslo.
+V rámci celých čísel můžeme také násobit. Násobení se ukázalo užitečné například při výpočtu plochy ve tvaru obdélníka.
+Jenomže časem bylo třeba též něco dělit na části a tu již celá čísla nestačí.
+Potřebné byly zlomky. Tím jsme se dostali k číslům racionálním, to znamená číslům,
+která se dají zapsat ve tvaru podílu dvou celých čísel (kde druhé číslo není nula). 
 
-Liczby naturalne wraz z ich ujemnymi odpowiednikami i zerem dają liczby całkowite.
-W ramach liczb całkowitych można dowolnie dodawać i odejmować i wynik zawsze będzie liczbą całkowitą.
-W ramach liczb całkowitych można także mnożyć.
-Mnożenie okazało się bardzo przydatne na przykład przy obliczaniu pola prostokątów.
-Tylko czasami było potrzebne dzielenie czegoś na części i tu już liczby całkowite nie wystarczyły.
-Potrzebne okazały się ułamki. W ten sposób dotarliśmy do liczb wymiernych, to znaczy liczb,
-które można zapisać w postaci ilorazu dwóch liczb całkowitych (gdzie druga jest różna od zera).
+Překvapením byl objev, že existují čísla iracionální. Ukázalo se, že jsou často potřebná
+například při výpočtu délky úhlopříčky čtverce. Obecněji při výpočtu odmocnin.
+Racionální čísla spolu s čísly iracionálními dávají reálná čísla, která v geometrické interpretaci tvoří přímku,
+tak zvanou číselnou osu. Jestliže na přímce vybereme jeden bod odpovídající nule a jiný bod odpovídající jedničce, pak každému reálnému číslu můžeme jednoznačně přiřadit jeden bod na přímce a naopak,
+každému bodu na přímce odpovídá jedno reálné číslo. Zůstal jenom jeden problém.
+V rámci reálných čísel neexistují odmocniny všech čísel.
+Vzhledem k tomu, že žádná druhá mocnina reálného čísla nemůže být záporná, nemůže v rámci reálných čísel existovat
+druhá odmocnina ze záporného čísla. Jestliže ji z nějakého důvodu potřebujeme vypočítat,
+výsledek nemůže být reálné číslo. Bylo nutné vymyslet něco nového a tím se ukázala komplexní čísela.
 
-Niespodzianką było stwierdzenie, że istnieją liczby niewymierne.
-Okazały się potrzebne na przykład dla ustalenia długości przekątnej kwadratu.
-Ogólniej przy obliczaniu pierwiastków.
-Liczby wymierne razem z niewymiernymi tworzą liczby rzeczywiste,
-które w interpretacji geometrycznej tworzą prostą, tak zwaną oś liczbową.
-Jeżeli na prostej wyznaczymy jeden punkt i oznaczymy go jako zero a jeden punkt jako jedynkę,
-to każdej liczbie rzeczywistej można jednoznacznie przyporządkować jeden punkt na prostej i odwrotnie,
-każdemu punktowi na prostej odpowiada jedna liczba rzeczywista.
-Pozostał tylko jeden problem. W ramach liczb rzeczywistych nie ma pierwiastków ze wszystkich liczb.
-Ze względu na to, że rzeczywista liczba podniesiona do kwadratu nie może dać wyniku ujemnego,
-to w ramach liczb rzeczywistych nie może istnieć pierwiastek drugiego stopnia liczby ujemnej.
-Jeżeli w jakimś celu potrzebujemy go obliczyć, to musimy wyjść poza liczby rzeczywiste.
-Dlatego wymyślono liczby zespolone.
+Komplexní čísla získáme z reálných čísel tím způsobem, že k reálnému číslu, které tvoří reálnou část komplexního čísla,
+dodáme imaginární část. Imaginární část můžeme chápat jako další rozměr  ve směru imaginární jednotky
+označené písmenem i. Jestliže reálná čísla si představujeme jako vodorovnou číselnou osu
+a imaginární čísla jako svislou osu, pak komplexní čísla utvoří komplexní rovinu,
+ve které komplexní číslo  a+bi bude reprezentované bodem v rovině o souřadnicích (a,b).  
 
-Liczby zespolone otrzymamy z liczb rzeczywistych w ten sposób, że do liczby rzeczywistej,
-która tworzy część rzeczywistą liczby zespolonej, dodajemy część urojoną.
-Część urojoną można rozumieć, jako dodatkowy wymiar w kierunku jednostki urojonej
-oznaczonej literą i. Jeżeli liczby rzeczywiste wyobrażamy sobie jako oś poziomą
-i liczby urojone jako oś pionową, to liczby zespolone będą tworzyły płaszczyznę zespoloną,
-gdzie liczba zespolona a+bi będzie określona za pomocą współrzędnych (a,b).
+Vidíme, že všechna čísla, o kterých jsme dosud mluvili, v geometrické interpretaci jsou svázána s geometrií Euklidovskou.
+To znamená, že i všechny výpočty pomocí těchto čísel v sobě obsahují implicitní předpoklad nezakřiveného prostoru.
+Zdá se, že pro kosmologické výpočty by se hodil matemetický aparát, který by v geometrické interpretaci odpovídal
+geometrii neeuklidovské...
 
-Widzimy, że wszystkie do tej pory pokazane liczby w interpretacji geometrycznej są powiązane
-z geometrią euklidesową. To oznacza, że i wszystkie obliczenia za pomocą tychże liczb
-zawierają w sobie ukryte założenie, że przestrzeń jest euklidesowa.
-Wydaje się, że do obliczeń dotyczących kosmologii przydałby się aparat matematyczny
-odpowiadający geometriom nieeuklidesowym...
-
-## [VI. Co rozumiemy pod pojęciem czasu?](rozdzial6)
+## [VI. Co máme na mysli pod pojmem čas?](rozdzial6)
