@@ -1,129 +1,113 @@
-## I. Jak powstaje model Wszechświata
+## I. Jak vzniká model vesmíru
 
-*Czytałem kiedyś o lekarzu w starożytnych Chinach, który badał żonę cesarza ukrytą za zasłoną.
-Przykładała do różnych części ciała jeden koniec nici i on trzymając w ręku jej drugi koniec
-obserwował tylko drgania. Na podstawie obserwacji wibrującej nici stawiał diagnozę.
-Wydawało mi się wtedy, że ustalenie prawidłowej diagnozy w takich warunkach jest prawie niemożliwe.
-Przy badaniu kosmosu jesteśmy jednak w podobnej sytuacji, jak starożytny chiński lekarz.
-Nie możemy podejść bliżej, aby coś zbadać. Jedyne, co możemy zrobić,
-to obserwować różne fale docierające do nas i wytężać nasz umysł.*
+*Četl jsem kdysi o lékaři v starověké Číně, který vyšetřoval ženu císaře ukrytou za závěsem.
+Přikládala si k různým částem těla jeden konec niti a on, držíc v ruce její druhý konec, pozoroval pouze vibrace.
+Jen na základě pozorování chvějící se niti určoval diagnózu.
+Zdálo se mi tehdy, že stanovení správné diagnózy v takových podmínkách je právě nemožné.*
+
+*Při zkoumání vesmíru jsme v podobné situaci, jako starověký lékař.
+Nemůžeme se přiblížit, abychom něco prozkoumali. Jediné, co můžeme udělat, je pozorovat různá vlnění,
+která k nám přicházejí a namáhat svůj rozum.*
 
 
-Zwykle sobie nie uświadamiamy tego, że nasz model Wszechświata powstaje na podstawie bardzo dziwnej mieszaniny obserwacji
-i założeń teoretycznych.   Same obserwacje są niewystarczające. Mogą być nawet mylące.
-Jeżeli pominiemy wszystko, czego nauczyli nas w szkole i spróbujemy stworzyć sobie wyobrażenie o Wszechświecie
-tylko na podstawie tego, co bezpośrednio obserwujemy, to co otrzymamy?
-Ziemia wydaje nam się nieruchoma i mniej więcej płaska, w ciągu dnia Słońce porusza się po niebie ze wschodu na zachód,
-nocą nad nami obraca się sfera niebieska z gwiazdami. Nawet do wyjaśnienia,
-w jaki sposób Słońce rano pojawia się ponownie na wschodzie, trzeba przyjąć jakieś założenia,
-bo nie wynika to bezpośrednio z obserwacji. Musimy wymyśleć jakąś teorię i w oparciu o nią interpretować to, co obserwujemy.
-Jest tu pewne zapętlenie, które może prowadzić do tego, że przez długi czas możemy podążać w niewłaściwym kierunku,
-utwierdzając się jednocześnie w przekonaniu, że mamy rację. Nowe obserwacje można jakoś tłumaczyć
-w ramach naszego dotychczasowego modelu, dodając nowe pojęcia i zależności, albo można też szukać nowego modelu.
+Obvykle si neuvědomujeme, na základě jak podivné směsi pozorování a teoretických předpokladů vzniká náš model vesmíru.
 
-Przed rozpoczęciem tworzenia nowego modelu warto przypomnieć sobie,
-jak powstawało i zmieniało się wyobrażenie o Wszechświecie od najdawniejszych czasów.
-W oparciu o jakie obserwacje i argumenty ludzie zmieniali zdanie o świecie i tworzyli kolejne modele.
+Samotná pozorování nestačí. Mohou být dokonce matoucí. Pokud odložíme stranou vše co jsme se naučili ve škole
+a pokusíme se udělat si představu o vesmíru pouze na základě toho, co vidíme, tak co dostaneme?
+Země se nám zdá nehybná a více méně plochá, během dne se Slunce posouvá po obloze z východu na západ,
+v noci se nad námi obrací nebeská sféra s hvězdami. Již k vysvětlení toho, jak se Slunce ráno znovu objeví na východě,
+je třeba přijmout nějaké předpoklady, protože nevyniká to přímo z pozorování.
+Musíme vymyslit nějakou teorii a to co pozorujeme vysvětlit pomocí této teorie.
+Jinými slovy: to, co vidíme musíme interpretovat pomocí teorie vytvořené na základě našich pozorování.
+Je tu jisté zacyklení, které může vést k tomu, že dlouho budeme postupovat špatným směrem
+a přitom se upevňovat v přesvědčení, že máme pravdu.
+Nová pozorování se můžeme snažit vysvětlit v rámci našeho současného modelu dodáním nových pojmů a závislostí,
+anebo můžeme hledat nový model.
 
-Dawno temu, na podstawie bezpośrednich obserwacji, ludzie wyobrażali sobie,
-że Ziemia jest nieruchoma a niebo z gwiazdami obraca się wokół niej,
-przy czym wzajemne odległości pomiędzy gwiazdami się nie zmieniały.
-Wydawało się logiczne, że gwiazdy znajdują się na obracającej się sferze.
-Słońce i Księżyc można było umieścić na oddzielnych sferach,
-problem pojawiał się przy próbie wyjaśnienia ruchu planet.
-Próbowano na różne sposoby, w końcu Ptolemeusz zaproponował model,
-w którym planety dodatkowo poruszały się po okręgach zwanych epicyklami.
-Była to dosyć karkołomna konstrukcja i Ptolemeusz chyba sam nie do końca był z tego modelu zadowolony,
-ale model był na tyle zgodny z obserwacjami, że przetrwał ponad tysiąc lat.
+Než začneme tvořit nový model, stojí za to si připomenout, jak vznikla i měnila se představa o vesmíru
+od nejstarších časů. Na základě jakých pozorování a jakých argumentů měnili  lidé svoji představu o světě
+a přecházeli k dalším modelům.
 
-Czy były jakieś inne propozycje? W sytuacji, kiedy wszyscy uważali, że Ziemia jest nieruchoma,
-co było zgodne z doświadczeniem, trudno było wpaść na pomysł, że może być inaczej.
-Pomimo tego Arystarch z Samos już kilkaset lat p.n.e. zaproponował heliocentryczny model układu Słonecznego.
-Pomysł był genialny, tylko nie zgadzał się z obserwacjami. Pozycje planet były inne, niż wynikało z obliczeń.
+Kdysi dávno na základě přímých pozorování si lidé představovali, že Země je nehybná
+a nebe s hvězdami se otáčí kolem Země. Přitom vzájemné vzdálenosti mezi hvězdami se nemění.
+Zdálo se logické, že hvězdy se nacházejí na otáčející se sféře.
+Slunce a Měsíc bylo možné umístit na samostatných sférách, problémem bylo vysvětlení pohybu planet.
+Zkoušelo se to různými způsoby, nakonec Ptolemajos navrhl model, ve kterém se planety dodatečně pohybovaly po kružnicích
+nazvaných epicykly. Byla to dost krkolomná konstrukce a  Ptolemajos z ní asi sám nebyl úplně spokojen,
+ale model se do té míry shodoval s pozorováním, že vydržel více než tisíc let.
 
-Jak widać, nie zawsze trzeba odrzucać model, który nie zgadza się z obserwacjami.
-Czasem może wystarczyć jego niewielka modyfikacja lub tylko zmiana interpretacji wyników pomiaru.
-Dlaczego wyniki obliczeń nie zgadzały się z obserwacją?
-Ponieważ nikomu wtedy nawet nie przyszło na myśl, że planety mogłyby poruszać się po innych torach
-niż po okręgu i na dodatek ze zmienną prędkością.
-Nie obserwowano także przesunięcia paralaktycznego gwiazd,
-które powinno pojawić się w przypadku obiegu Ziemi wokół Słońca.
-Jeszcze w XVI wieku Tycho Brahe, po przeprowadzeniu dokładnych obserwacji,
-podważał z tego powodu teorię heliocentryczną opublikowaną przez Mikołaja Kopernika.
-Wynikało to z innego błędnego założenia.
-Tycho Brahe nie przypuszczał, że odległości gwiazd mogą być tak duże,
-że przesunięcia paralaktyczne są poza zasięgiem nawet najdokładniejszych instrumentów pomiarowych
-używanych w tamtym czasie. Wynika z tego, że wyniki obserwacji mogą być mylące.
-Jeżeli je interpretujemy niewłaściwie, możemy dojść do błędnych wniosków.
+Byly nějaké další návrhy? V situaci, kdy všichni byli přesvědčeni, že Země je nehybná, což bylo shodné se zkušeností,
+těžké bylo přijít s nápadem, že tomu může být i jinak. Přesto Aristarchos ze Samu již několik set let př. n. l.
+navrhl heliocentrický model vesmíru. Myšlenka byla geniální, jenomže model nesouhlasil s pozorováním.
+Pozice planet byly jiné, než vyplývalo z výpočtů. 
 
-Model heliocentryczny zaczął być traktowany poważnie dopiero wtedy,
-kiedy Johannes Kepler po analizie ogromnej ilości danych doszedł do wniosku,
-że planety poruszają się po orbitach eliptycznych, ze zmienną prędkością
-i obserwacje zaczęły zgadzać się z obliczeniami.
+Jak je vidět, není vždy nutné odmítat model, který nesouhlasí s pozorováním.
+Někdy může stačit malá modifikace modelu nebo jen změna interpretace výsledků měření.
+Proč výsledky výpočtů nesouhlasily s pozorováním? Protože tehdy nikomu ani na mysl nepřišlo,
+že by se planety mohly pohybovat po jiných drahách než po kružnicích a ještě k tomu proměnlivou rychlostí.
+Nebylo také pozorováno paralaktické přesunutí hvězd, které by se mělo ukázat v případě oběhu Země okolo Slunce.
+Ještě v XVI. století Tycho Brahe po provedení série důkladných měření  zpochybňoval z toho důvodu heliocentrickou teorii,
+kterou publikoval Mikuláš Koperník. Vycházelo to z jiného chybného předpokladu.
+Tycho Brahe nepřipouštěl, že vzdálenosti hvězd mohou být tak velké, že paralaktické přesunutí je mimo dosah
+dokonce i těch nejpřesnějších měřicích přístrojů jeho doby. Znovu vidíme, že výsledky pozorování nás mohou splést.
+Jestliže je nesprávně interpretujeme, můžeme dojít ke špatným závěrům.
 
-Nie wiedziano, skąd wziął się taki na pozór dziwny ruch planet.
-Wyjaśniła to dopiero teoria grawitacji Isaaca Newtona.
+Heliocentrický  model se začal brát vážně teprve tehdy, kdy Johannes Kepler po analýze  ohromného množství dat
+došel k závěru, že planety se pohybují po drahách eliptických s proměnlivou rychlostí
+a pozorování se začala shodovat s výpočty.
 
-Dopóki ludzie uważali, że sfera niebieska obraca się wokół Ziemi, wydawało się oczywiste,
-że odległość wszystkich gwiazd musi być jednakowa.
-Kiedy jednak okazało się, że ruch gwiazd po niebie jest tylko pozorny,
-natychmiast przestała być koniecznością jednakowa odległość gwiazd od Ziemi.
-Wręcz przeciwnie, różna obserwowana jasność gwiazd sugerowała, że te odległości mogą być różne.
-Tylko, w jaki sposób je ustalić i jakie są rozmiary całego Wszechświata?
-Sama obserwacja nie wystarcza. Ponownie potrzebne są jakieś dodatkowe założenia teoretyczne.
-Newton pokazał, że dla ciał niebieskich obowiązują takie same prawa, jakie obowiązują na Ziemi.
-W przypadku gwiazd pojawił się jednak nowy problem.
-Jeżeli wszystkie ciała się przyciągają, to dlaczego wszystkie gwiazdy nie wpadają na siebie?
+Odkud se vzal takový zdánlivě podivný pohyb planet nebylo známo.
+Vysvětlila to teprve gravitační teorie Isaaca Newtona.
 
-Ponownie widzimy, że obserwacje mogą wprowadzać nas w błąd.
-Gwiazdy wydają nam się nieruchome jedynie dlatego, że ich odległości są bardzo duże.
-Wszechświat wcale nie jest statyczny. Usiłowano znaleźć rozwiązanie tego problemu
-i tak powstała koncepcja nieskończonego Wszechświata.
+Dokud si lidé mysleli, že nebeská sféra se otáčí okolo Země, zdálo se samozřejmé,
+že vzdálenosti všech hvězd musí být stejné. Když se ukázalo, že pohyb hvězd po obloze je pouze zdánlivý,
+okamžitě přestala být nutností stejná vzdálenost hvězd od Země. Různé pozorované velikosti hvězd přímo sugerovaly,
+že vzdálenosti mohou být různé. Jenom jakým způsobem zjistit, jaké jsou rozměry celého Vesmíru?
+Samotné pozorování nestačí. Znovu jsou potřebné nějaké dodatečné teoretické předpoklady.
+Newton ukázal, že pro nebeská tělesa platí stejné zákony, jaké platí na Zemi.
+V případě hvězd se však objevil nový problém. Jestliže se všechna tělesa přitahují,
+proč všechny hvězdy nespadnou na sebe?
 
-Zgodnie z zasadami geometrii Euklidesa, jakie nam wpojono, nieskończona, niezakrzywiona przestrzeń
-wydaje nam się czymś naturalnym. Nieskończoność nie może być jednak potwierdzona żadną obserwacją
-ani żadnym eksperymentem i istnieje właściwie tylko w naszej wyobraźni.
-Oprócz tego okazało się, że nieskończona przestrzeń wcale nie załatwia sprawy stabilności Wszechświata.
-Dla zapewnienia stabilności nieskończonego, statycznego Wszechświata potrzebna byłaby
-modyfikacja teorii grawitacji w stosunku do bardzo odległych obiektów. Jak zobaczymy później,
-modyfikacja teorii grawitacji Newtona jest potrzebna także w przypadku skończonego Wszechświata,
-ponieważ została sformułowana dla nieskończonej, niezakrzywionej przestrzeni.
+Znovu vidíme, jak nás mohou pozorování mýlit.
+Hvězdy se nám zdají nehybné pouze proto, že jsou od nás ohromně vzdáleny.
+Vesmír není statický. Řešení toho problému se ale hledalo jinde. Vznikla koncepce nekonečného vesmíru.
 
-Przeciw koncepcji nieskończonego Wszechświata podawano też inny argument.
-Nieskończona ilość gwiazd mniej więcej równomiernie rozmieszczona w nieskończonej przestrzeni
-powinna powodować, że niebo będzie jasne również w nocy. W jakiś sposób trzeba było wyjaśnić,
-dlaczego jest ciemne. Jednym z możliwych wyjaśnień było założenie, że gwiazdy nie świecą od zawsze.
-W tym przypadku powstaje jednak pytanie, kiedy i w jaki sposób zaczęły świecić?
+Pod vlivem Euklidovy geometrie se nám nekonečný nezakřivený prostor zdá být něčím přirozeným.
+Nekonečnost ale nemůže být potvrzena žádným pozorováním ani žádným pokusem a existuje vlastně pouze v naší představě.
+Kromě toho se ukázalo, že nekonečný prostor vůbec neřeší problém stability vesmíru.
+Pro zajištění stabilnosti nekonečneho statického vesmíru by bylo třeba zmodifikovat gravitační teorii
+pro velmi vzdálené objekty. Jak uvidíme později, modifikace Newtonovy gravitační teorie je nutná  také v případě
+konečného vesmíru, protože byla zformulována pro nekonečný nezakřivený prostor.
 
-Kiedyś wydawało się, że na ten temat można tylko spekulować.
-Gwiazdy wydawały się tak odległe i tak niedostępne, że były tylko światełkiem na niebie.
-Okazało się jednak, że i z tej niewielkiej ilości światła, które do nas dociera,
-można uzyskać bardzo dużo informacji. Badając spektrum gwiazd można ustalić ich skład chemiczny
-i z porównania różnych stadiów gwiazd wywnioskować, do jakich reakcji w nich dochodzi.
+Proti koncepci nekonečného vesmíru byl podán též jiný argument.
+Nekonečné množství hvězd více méně rovnoměrně rozmístěných v nekonečném prostoru by mělo způsobit,
+že nebe i v noci bude jasné. Bylo třeba nějak vysvětlit, proč je temné.
+Jedním z možných vysvětlení byl předpoklad, že hvězdy nesvítí věčně.
+V tom případě se jednak objeví otázka, kdy a jak začaly svítit. 
 
-Trzeba jednak nieustannie analizować i rozróżniać, co jest bezpośrednią obserwacją a co modelem teoretycznym
-i w jaki sposób na ich podstawie wyciągamy wnioski o rzeczywistym Wszechświecie.
-Jeżeli zaobserwowano przesunięcie ku czerwieni w spektrach oddalonych obiektów i to tym większe,
-im bardziej obiekt jest od nas oddalony, to można zinterpretować to, jako rozszerzanie się Wszechświata.
-Nie jest to natomiast obserwacja rozszerzania się Wszechświata,
-więc można próbować zinterpretować to w inny sposób.
+Kdysi se zdálo, že o tomto tématu je možné pouze spekulovat. Hvězdy se zdály tak vzdálené a tak nedostupné,
+že byly pouze světélkem na nebi. Ukázalo se ale, že i z té trošky světla, které k nám přichází,
+je možné získat ohromné množství informcí. Zkoumáním spektra hvězd můžeme určit jejich chemické složení
+a z porovnání různých stádií hvězd můžeme vydedukovat, jaké reakce ve hvězdách probíhají.
 
-Jeżeli przyjmiemy fakt, że Wszechświat rozszerza się, to wydaje się logiczne,
-że wcześniej był mniejszy i kiedyś powstał z bardzo małego obszaru.
-Przyjmuje się jakiś "początek", który nazywamy “Wielkim Wybuchem”.
-Nie da się tego potwierdzić za pomocą bezpośrednich obserwacji,
-zarejestrowano jednak promieniowanie reliktowe, które można interpretować jako pozostałość po Wielkim Wybuchu.
-Istnieje też matematyczny model, który opisuje Wszechświat zgodnie z tymi założeniami.
-Czy to oznacza, że nasz współczesny obraz Wszechświata jest prawidłowy?
-Wiemy, że nie jest. Już to, że jest sprzeczny z teorią kwantową sygnalizuje, że coś jest nie tak.
-Coraz dokładniejsze obserwacje powodują, że potrzebujemy coraz dziwniejszych konstrukcji,
-aby te obserwacje wytłumaczyć. Aby pogodzić obserwacje z teorią, wymyślono kosmiczną inflację
-(rozpychającą Wszechświat biliony bilionów razy w ułamku sekundy), ciemną materię i ciemną energię
-(o których nic nie wiadomo oprócz tego, że są potrzebne w ramach istniejącego modelu).
-Pojawiają się jednak następne obserwacje, których współczesna teoria nie potrafi wytłumaczyć,
-na przykład ogromne czarne dziury we wczesnym Wszechświecie.
+Musíme ale celý čas pomatovat na to, že je třeba rozlišovat mezi tím, co vyplývá z pozorování a co z modelu,
+a jakým způsobem z toho vyvozujeme závěry o skutečném vesmíru.
+Jestliže byl pozorován červený posun ve spektrech vzdálených objektů a to tím větší,
+čím více je objekt od nás vzdálený, můžeme to interpretovat jako rozpínání se vesmíru.
+Není to ale pozorování rozpínání vesmíru a můžeme hledat též jinou interpretaci.
 
-Chyba już czas zatrzymać się i zastanowić, które nasze założenia mogą być błędne
-i zbudować model Wszechświata od nowa.
+Přijmeme-li jako fakt, že se vesmír rozpíná, pak se zdá logické, že dříve byl menší a vznikl kdysi z malé oblasti.
+Dostáváme tak jakýsi počátek, který byl nazván “Velký třesk”.  Velký třesk nemůžeme potvrdit přímým pozorováním,
+nicméně bylo zaznamenáno reliktní záření, které můžeme interpretovat jako pozůstalost po velkém třesku.
+Máme též matematický model, který popisuje vesmír v souladu s těmito předpoklady.
+Znamená to, že náš současný obraz vesmíru je správný? Víme, že není. Již to, že je v rozporu s kvantovou teorií
+signalizuje, že něco není v pořádku. Čím dál více přesnějších pozorování způsobuje,
+že jsou potřebné stále divnější konstrukce, aby to vysvětlily. Aby šlo sladit pozorování s teorií
+byla vymyšlena kosmická inflace (zvětšení vesmíru bilióny biliónů krát ve zlomku vteřiny), temná hmota a temná energie
+(o kterých kromě toho, že jsou potřebné v rámci stávajícího modelu nikdo nic neví). Ukazují se ale další pozorování,
+která současná kosmologie neumí vyvětlit, například ohromné černé díry v raném vesmíru.
 
-## [II. Widzialna część Wszechświata](rozdzial2)
+Myslím, že už přišel čas se zastavit, rozvážit, které naše předpoklady mohou být špatné
+a vytvořit model vesmíru znovu od počátku.
+
+## [II. Viditelná část vesmíru](rozdzial2)
