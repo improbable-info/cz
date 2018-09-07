@@ -1,90 +1,83 @@
-## I. Czy komputer może myśleć?
+## I. Může počítač myslet?
 
-Na tak postawione pytanie można odpowiedzieć jednym słowem i więcej tym się nie przejmować.
-Wiele osób pewnie by tak zrobiło. Powiedzieliby że nie, i być może mieliby rację.
+Na takto položenou otázku by bylo možné odpovědět jedním slovem a více se jí nezabývat.
+A hodně lidí by to tak asi udělalo. Prohlásili by, že myslet nemůže a možná by měli pravdu.
 
-Ale co to właściwie znaczy **„myśleć”**? Nie będę tu próbował podawać definicji
-(problemem definicji pojęć będziemy zajmowali się w następnym rozdziale),
-chcę tylko, aby w tym miejscu uświadomić sobie, że odpowiedź na pytanie, czy komputer może myśleć,
-jest zależna od tego, jak zdefiniujemy pojęcie **„myślenie”**.
+Ale co to vlastně znamená **„myslet“**?
+Nebudu se zde snažit podat nějakou definici (problémem definování pojmů se budeme zabývat v následující kapitole),
+pouze chci, abychom si v tomto místě uvědomili, že odpověď na otázku, zda počítač může myslet,
+záleží na tom, jak budeme definovat pojem **„myšlení“**.
 
-Bez względu na to, jaką definicję **„myślenia”** przyjmiemy, większość ludzi zgodzi się z tym, że człowiek myśli.
-Ale kiedy i w jaki sposób zaczyna myśleć?
-Dziecko musi mieć zmysły, którymi odbiera bodźce i musi mieć mózg, który na te bodźce reaguje.
+Bez ohledu na to, jakou definici pojmu **„myšlení“** přijmeme, většina lidí uzná, že člověk myslí.
+Ale kdy a jak začíná myslet? Dítě musí mít smysly, kterými sbírá podněty a musí mít mozek, který na tyto podněty reaguje. 
 
-Jeżeli niemowlę na coś patrzy, obraz na siatkówce jest zdeformowany i jest obrócony do góry nogami.
-Mózg musi nauczyć się ułożyć obraz oglądanego przedmiotu na podstawie bodźców wzrokowych,
-oddzielić go od jego otoczenia i utworzyć jego model.
+Jestliže se dítě na něco dívá, obraz na sítnici je deformovaný a vzhůru nohama.
+Mozek se musí naučit ze zrakových podnětů stvořit obraz viděné věci, oddělit tuto věc od jejího okolí
+a stvořit si její model.
 
-Dużo lepszy model danego przedmiotu może uzyskać, jeżeli będzie miało do dyspozycji
-następne niezależne źródło informacji, na przykład dotyk.
-Sposób w jaki postrzegamy daną rzecz zależy od tego, jakie mamy zmysły.
+Mnohem lepší model dané věci může získat, jestliže bude mít další nezávislý zdroj informace,
+například hmat. Jakou budeme mít představu o dané věci, záleží do značné míry na tom, jaké máme smysly.
 
-Jeżeli człowiek urodzi się ślepy, jego wyobrażenie o świecie będzie inne niż większości ludzi,
-ale nikt nie wątpi w jego umiejętność myślenia. Gdyby jednak urodził się nie tylko ślepy,
-ale też głuchy, bez węchu, bez dotyku i innych zmysłów?
-Bez żadnych bodźców myślenie by prawdopodobnie nie powstało. Jakie zmysły minimalnie musiałby posiadać,
-aby mógł nawiązać kontakt z otoczeniem i nauczyć się myśleć?
-W tej chwili nie chodzi nam o to, by zdecydować, jakie minimalne warunki muszą być spełnione,
-aby mogło powstać myślenie, tylko aby uświadomić sobie, że w pewnych warunkach mogłoby powstać coś,
-co można już nazwać myśleniem i jednocześnie byłoby to coś bardzo różniącego się od tego,
-co zwykle rozumiemy pod tym pojęciem.
+Jestli se člověk narodí slepý, jeho představa o světě bude jiná než představa většiny lidí,
+ale nikdo nepochybuje o tom, že může myslet. Ale kdyby se narodil nejen slepý, ale i hluchý,
+bez čichu, bez dotyku i jiných smyslů? Bez žádných podnětů by se myšlení pravděpodobně nerozvinulo.
+A jaké smysly by musel minimálně mít, aby mohl navázat kontakt s okolím a naučit se myslet?
+V tuto chvíli nám nejde o to rozhodnout, za jakých minimálních podmínek může již vzniknout myšlení,
+ale pouze si uvědomit, že za jistých podmínek by mohlo vzniknout něco, co by již bylo možné nazvat myšlením
+a přitom by bylo hodně vzdálené od toho, co obvykle myšlením rozumíme.
 
-W przypadku komputera musimy pójść jeszcze dalej.
-Nie chodzi o to, by komputer myślał podobnie jak człowiek, chcemy tylko, aby wykonywał taką czynność,
-którą moglibyśmy już nazwać (prymitywnym) myśleniem.
+V případě počítače musíme jít ještě dál.
+Nejde o to, aby počítač myslel podobně jako člověk, chceme pouze, aby vykonával takovou činnost,
+kterou bychom již mohli nazvat (primitivním) myšlením.
 
-Jeżeli chcielibyśmy, by komputer myślał jak człowiek, by postrzegał i rozumiał nasz świat,
-musielibyśmy dać mu podobne zmysły, by widział, słyszał, wąchał, dotykał, może też musiałby odczuwać głód i strach,
-podobnie jak człowiek. Musielibyśmy zapewnić mu ludzkie wychowanie i spełnić jeszcze dużo innych warunków
-– praktycznie stworzyć robota bardzo podobnego do człowieka. O to nam jednak w tej chwili nie chodzi.
+Kdybychom chtěli, aby počítač myslel jako člověk, aby vnímal náš svět a rozuměl mu,
+museli bychom mu dát podobné smysly, aby viděl, slyšel, cítil, dotýkal se,
+možná by též musel mít hlad a bát se, podobně jako člověk.
+A museli bychom mu dát i podobnou výchovu, jakou mají lidé a ještě splnit mnoho jiných podmínek
+- prakticky stvořit robota nerozlišitelného od člověka. Ale o to nám v tuto chvíli nejde.
 
-W jaki sposób rozumieć w takim razie słowo **„myśleć”** w odniesieniu do komputera?
-Każdy może mieć swoje zdanie, ale w tej chwili możemy przyjąć następujące stanowisko:
-żeby można było powiedzieć, że komputer myśli, będziemy od niego wymagać zdolności operowania pojęciami.
-Nie jest konieczne, aby to były pojęcia, jakich używają ludzie. Powinien tylko rozumieć ich znaczenie.
-Tu powstaje nowy problem: Co ma znaczyć wyrażenie **„rozumieć coś”** w przypadku komputerów?
-Na razie nie wymagamy od nich świadomości ani zdolności wyobrażenia sobie czegoś.
-Wyobraźnia być może nie jest konieczna. Fizyk kwantowy lub matematyk też może operować obiektami,
-których nie potrafi sobie wyobrazić. Uważamy, że je rozumie, kiedy potrafi nimi prawidłowo operować.
-Na początek wyrażenie **„rozumieć coś”** będziemy interpretowali tak,
-że wystarczy mieć stworzony model zawierający dla każdego pojęcia odpowiedni obiekt,
-który ma zdefiniowane właściwości i relacje w stosunku do innych obiektów modelu.
-To jest wystarczające do tego, żeby było możliwe odpowiadanie na pytania w ramach tego modelu.
+Jak tedy rozumět slovu **„myslet“** v souvislosti s počítačem? Každý tu může mít svůj názor,
+ale pro tuto chvíli můžeme přijmout následující stanovisko:
 
-Do tego, żeby powiedzieć, że komputer myśli, będziemy wymagali nieco więcej.
-Będziemy chcieli żeby miał zdolność zmieniania swojego modelu świata,
-uzupełniania albo budowania go całkowicie od nowa w ten sposób, aby potrafił otrzymać odpowiedzi
-także na takie pytania, na które wcześniej nie potrafił odpowiedzieć.
-  
-Można przyjąć też inne warunki lub wymagania dla stwierdzenia, czy komputer jest inteligentny.
-Na przykład test Turinga, według którego system jest inteligentny, jeżeli potrafi odpowiadać
-na pytania w języku naturalnym w taki sposób, że osoba zadająca pytania nie potrafi rozpoznać,
-czy rozmawia z maszyną czy z człowiekiem.
-Warunek, że sztuczna inteligencja ma być nierozróżnialna od naturalnej,
-uważam za ogromne ograniczenie pojęcia inteligencji.
-Nie uwzględnia to żadnej inteligencji zwierząt ani programów, które już wykazują jakiś stopień inteligencji,
-ale też przypadku maszyny, która potrafiłaby odpowiadać natychmiast i bezbłędnie na wszystkie pytania.
-Żeby taka maszyna była nierozróżnialna od człowieka, konieczne byłoby sztuczne wydłużanie czasu odpowiedzi
-w taki sposób, żeby odpowiadał długości czasu odpowiedzi człowieka.
-Od czasu do czasu musiałaby specjalnie pomylić się lub stwierdzić, że nie zna odpowiedzi.
-Nawet jakby nikt nie potrafił odróżnić odpowiedzi maszyny od odpowiedzi człowieka,
-wiele osób i tak nie uważałoby tego za dowód na to, że maszyna myśli. Kryteria zmieniłyby się.
-Podobnie, jak to było w przypadku szachów. Dopóki najlepsi gracze wygrywali z komputerami,
-uznawano to za dowód wyższości ludzkiej inteligencji nad niemyślącymi maszynami.
-Ale od czasu, kiedy komputery zaczęły wygrywać nawet z mistrzem świata, nagle okazało się,
-że nie jest to już dowód przewagi niemyślącej maszyny nad ludzką inteligencją.
+K tomu, abychom mohli říci, že počítač myslí, budeme vyžadovat, aby uměl operovat s pojmy.
+Nemusí to být pojmy, jaké používají lidé, ale měl by jim rozumět. A tu máme nový problém:
+Jak chápat výraz **„rozumět něčemu“** u počítačů? Zatím u nich nepředpokládáme vědomí ani schopnost si něco představit.
+Ale představivost nemusí být nutná. Kvantový fyzik nebo matematik též může pracovat s objekty,
+které si nedokáže představit. K tomu, abychom připustili, že jim rozumí, stačí, že s nimi umí správně operovat.
+Pro začátek výraz **„rozumět něčemu“** budeme chápat tak, že stačí mít stvořený model obsahující pro každý pojem
+odpovídající objekt, který má definované vlastnosti a vztahy k jiným objektům v modelu.
+Dává to možnost správně odpovídat na položené otázky týkající se tohoto modelu.
 
-Dlaczego sztuczna inteligencja miałaby być nierozróżnialna od ludzkiej?
-Nie stawiamy takich wymagań na przykład sztucznej nodze.
-Jeszcze nie tak dawno zamiast dolnej kończyny wystarczył kawałek drewna, a dzisiaj istnieją protezy,
-na których można biegać szybciej niż na zdrowych nogach, i nikt nie wymaga,
-by sztuczne nogi były nierozróżnialne od naturalnych. Każdy może od razu stwierdzić, że są sztuczne.
+K tomu, abychom mohli říct, že počítač myslí, budeme ale vyžadovat trochu víc.
+Budeme chtít, aby byl schopen svůj model světa měnit, rozvíjet nebo tvořit úplně znovu tak,
+aby mohl hledat odpovědi i na takové otázky, na které dříve odpovědět neuměl.
 
-Każdy może sam ustalić, jakie kryteria przyjąć, by móc rozstrzygnąć czy maszyna myśli.
-My będziemy trzymać się jak najogólniejszej definicji i szukać pierwszych oznak inteligencji.
+Je možné vymyslet spoustu jiných předpokladů a požadavků, na základě kterých by se dalo rozhodnout,
+zda počítač myslí. Například test Turinga, podle kterého je nějaký systém inteligentní,
+jestliže je schopen odpovídat na otázky v přirozené řeči takovým způsobem, že osoba, která klade otázky,
+není schopna rozpoznat, jestli komunikuje se strojem nebo s člověkem.
+Požadavek, aby umělá inteligence byla nerozlišitelná od lidské, považuji za ohromné zúžení pojmu inteligence.
+Nejen že v takovém případě neuznáváme žádnou inteligenci zvířat, ani programů,
+které již určitý stupeň inteligence vykazují, ale neobstál by zde ani stroj,
+který by uměl rychle a bezchybně odpovídat na všechny otázky. Aby se takový stroj  nedal odlišit od člověka,
+museli bychom uměle prodloužit čas jeho odpovědi tak, aby odpovídal času přemýšlení člověka,
+občas by se musel schválně splést nebo tvrdit, že něco neví.
+Ale i kdyby nikdo nedokázal odlišit odpovědi stroje od člověka, mnoho lidí by to i tak nepovažovalo za důkaz,
+že stroj myslí. Kriteria by se změnila. Podobně jako tomu bylo v případě šachů.
+Dokud nejlepší šachisté vyhrávali s počítači, bylo to podáváno jako důkaz převahy lidské inteligence
+nad nemyslícími stroji. Ale jakmile začaly počítače vyhrávat i s mistrem světa,
+náhle už to nebyl důkaz převahy nemyslícího stroje nad lidskou inteligencí.  
 
-Najpierw zastanówmy się, jak powstają pojęcia, na ile są niedokładne i jaka jest nadzieja na to
-by komputer przynajmniej niektóre pojęcia rozumiał w sposób podobny do naszego sposobu rozumienia.
+Kromě toho proč bychom u umělé inteligence měli vyžadovat její nerozlišitelnost od lidské
+a například u umělé nohy to nepožadujeme.
+Ještě nedávno stačil místo chybějící nohy dřevěný pahýl a dnes jsou možné protézy,
+se kterými se dá běhat rychleji než na vlastních nohou, ale nikdo nežádá,
+aby  byly k nerozeznání podobné lidským a každý na první pohled pozná, že jsou umělé.
 
-## [II. Definiowanie pojęć](rozdzial2)
+Každý sám se může zamyslet, jaká kriteria přijmout, aby se dalo rozhodnout, zda stroj myslí.
+Zde se budeme snažit o co nejobecnější definice a hledat už první náznaky projevů inteligence.
+
+Nejprve se ale zamysleme nad tím, jak vznikají pojmy, jak jsou nepřesné a jaké jsou šance,
+aby počítač alespoň některé pojmy chápal podobně jako my.
+
+## [II. Definování pojmů](rozdzial2)
