@@ -1,35 +1,29 @@
-## VII. Wszechświat jako automat komórkowy
+## VII. Vesmír jako buněčný automat
 
-Jeżeli chcemy przedstawić model wszechświata w formie automatu komórkowego,
-to trzeba najpierw wyjaśnić, co to jest. Nie będziemy tu wchodzić w szczegóły,
-podamy tylko definicję i prosty przykład.
+Jestliže chceme představit model vesmíru jako buněčný automat, musíme si nejprve vyjasnit,
+co to ten buněčný automat vlastně je. Nebudeme se tu zabývat detaily, uvedeme pouze definici a jednoduchý pŕíklad. 
 
-Automat komórkowy jest to obiekt składający się z sieci komórek,
-które mogą mieć pewien stan z określonego zbioru, który zmienia się według pewnych reguł
-w zależności od stanów sąsiednich komórek. W zależności od rodzaju sieci,
-możliwych wartości komórek i wyboru algorytmu mogą istnieć bardzo różne automaty komórkowe.
-Najsłynniejszym chyba automatem komórkowym jest "Game of Life" ("gra w życie").
-Kwadratowe komórki wypełniają płaszczyznę i mogą przyjmować jeden z dwóch stanów: być żywe albo martwe.
-Stan początkowy może być dany albo wybrany losowo i reguły dotyczące zmiany stanu w następnym kroku
-są następujące:
+**Buněčný automat** je objekt skládající se z sítě buněk, které mohou nabývat jeden z možných stavů z určitého souboru,
+který se mění podle zadaných pravidel v závislosti na stavu sousedních buněk.
+Podle druhu sítě, možných hodnot buněk a volby algoritmu mohou existovat nejrůznějši buněčné automaty.
+Nejznámějším buněčným automatem je asi "Game of Life" ("Hra života").
+Čtvercové buňky uložené v rovině mohou nabývat jeden ze dvou stavů : být živé nebo mrtvé.
+Počáteční stav může být zadán nebo vybrán náhodně a pravidla pro výpočet stavu v následujícím kroku jsou následující:
 
-- żywa komórka umiera, gdy posiada mniej niż dwóch albo więcej niż trzech żywych sąsiadów,
-jeżeli ma dwóch lub trzech żywych sąsiadów pozostaje żywa
+- živá buňka umírá, jestliže má měně než dva anebo více než tři živé sousedy,
+jestli má dva nebo tři živé sousedy zůstává živá
 
-- martwa komórka ożywa, jeżeli ma dokładnie trzech żywych sąsiadów
+- mrtvá  buňka ožívá, jestliže má přesně tři živé sousedy 
 
-Już tak proste zasady mogą prowadzić do tworzenia bardzo ciekawych struktur,
-które mogą na przykład same się reprodukować.
+Již tak jednoduchá pravidla mohou vést k vytvoření velmi zajímavých struktur,
+které se mohou například samy reprodukovat.
 
-Jak można modelować Wszechświat za pomocą automatu komórkowego?
-Na przykład wykorzystać trójwymiarową siatkę komórek,
-dla każdej komórki ustawić stan odpowiadający jakieś ilości masy i wartościom różnych sił czy pól,
-ustalić zasady jak ma się zmieniać zawartość każdej komórki w zależności od zawartości sąsiadujących komórek
-i uruchomić automat. W takim modelu czas płynie zgodnie z naszym wyobrażeniem o czasie,
-z tym, że istnieje najmniejszy interwał czasowy - jeden krok w działaniu automatu
-- istnieje najmniejsza odległość - rozmiar komórki, istnieje stała szybkość,
-z jaką mogą przemieszczać się zmiany w przestrzeni itd.
-Widzimy, że taki model ma nie tylko naturalnie płynący czas, ale jednocześnie ma i pewne właściwości kwantowe.
-Może to być jedna z możliwych dróg do modelowania Wszechświata...
+Jak je možné modelovat vesmír pomocí buněčných automatů? Například využít trojrozměrnou síť buněk,
+v každé buňce ustavit parametry odpovídající nějakému množství hmoty a různých sil nebo hodnotám pole,
+nastavit pravidla, jak se má měnit obsah každé buňky v závislosti na stavu sousedních buněk a spustit automat.
+V takovém modelu čas plyne shodně s naší představou o plynutí času, s tím, že zde máme nejmenší časový interval
+- jeden krok v činnosti automatu - existuje též nejmenší vzdálenost - rozměr buňky, existuje největší rychlost,
+jakou se mohou šířit změny v prostoru atd. Vidíme, že takový model má nejen přirozeně plynoucí čas,
+ale má též jisté kvantové vlastnosti. Může to být jedna z cest, jak modelovat vesmír...
 
-## [VIII. Parę słów na temat przestrzeni ](rozdzial8)
+## [VIII. Několik slov o prostoru](rozdzial8)
