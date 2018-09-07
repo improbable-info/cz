@@ -1,45 +1,37 @@
 ## Literatura
 
-W trakcie pisania tej książki nie chodziło mi o fakty i najnowszą wiedzę,
-ale raczej o pokazanie sposobu myślenia i stopniowego rozwoju a zmian naszych poglądów,
-i starałem się wymyślić w ramach możliwości coś całkowicie nowego.
-Z tego powodu literaturę raczej omijałem. Pomimo tego istnieje kilka książek,
-które zasługują na to, żeby zostały wymienione.
-Pomimo tego, że niektóre z nich czytałem już bardzo dawno temu,
-a niektórych nawet nie przeczytałem w całości, miały na mnie tak duży wpływ,
-że bez nich by prawdopodobnie ta książka wcale nie powstała.
+Při psaní této knihy mi nešlo o fakta a nejnovější poznatky,
+ale spíš ukázat způsob myšlení a postupný vývoj a změny našich názorů, a snažil jsem se vymyslet
+pokud možno něco úplně nového. Takže jsem se veškeré literatuře raději vyhýbal.
+Přesto existuje několik knih, které zasluhují, abych je zde uvedl.
+I když některé z nich jsem četl už hodně dávno, a některé jsem ani celé nepřečetl, měly na mne tak velký vliv,
+že bez nich by patrně tato kniha vůbec nevznikla.
 
-**Vitus B. Dröscher: Magie smyslů v říši zvířat**, ORBIS Praha, 1970 – książka pokazująca,
-że inne stworzenia mogą postrzegać świat całkowicie inaczej niż ludzie.
-W trakcie czytania tej książki pierwszy raz uświadomiłem sobie, że gdybyśmy mieli inne zmysły,
-mielibyśmy całkowicie inne wyobrażenie o świecie. 
+**Vitus B. Dröscher: Magie smyslů v říši zvířat**, ORBIS Praha, 1970 – kniha ukazující,
+že jiní tvorové mohou vnímat svět úplně jinak než lidé. Při četbě jsem si poprvé uvědomil,
+že kdybychom měli jiné smysly, měli bychom úplně jinou představu o světě.  
 
 **Vladimír Vondráček, František Holub: Fantastické a Magické z hlediska psychiatrie**,
-Praha, Avicenum – Zdravotnické nakladatelství 1972 – książkę czytałem bardzo dawno,
-pozostała we mnie świadomość tego, jak trudno jest czasem znaleźć różnicę pomiędzy tym,
-co naprawdę postrzegaliśmy a tym, co wytworzyliśmy tylko w myślach. 
+Praha, Avicenum – Zdravotnické nakladatelství 1972 – knihu jsem četl dost dávno,
+hlavně mi z ní zůstal pocit, že je velmi těžké rozlišit mezi tím, co jsme skutečně vnímali
+a tím, co jsme si vytvořili pouze v představách.  
 
 **Ryszard Tadeusiewicz: W stronę uśmiechniętych maszyn**, Wydawnictwa „ALFA“,
-Warszawa, 1989 – bardzo przystępnie napisana książka, w której pierwszy raz zetknąłem się
-z problematyką sieci neuronowych.
+Warszawa, 1989 – přístupně napsaná knížka, ve které jsem se poprvé setkal s problematikou neuronových sítí.
 
 **Harry Collins, Trevor Pinch: GOLEM, czyli co trzeba wiedzieć o nauce**,
-Wydawnictwo CiS, Warszawa 1998 – książka pokazuje, że eksperymenty naukowe
-nie muszą prowadzić do odkrycia prawdy, jeżeli nie jesteśmy w stanie ustalić
-kryteriów kompetencji eksperymentatorów.
+Wydawnictwo CiS, Warszawa 1998 – kniha, která ukazuje,
+že vědecké experimenty nemusí vést k poznání pravdy, pokud nejsme schopni ustálit kriteria kompetencí experimentátorů.
 
-**Robert Merle: Malevil** – książka, która przekonała mnie o względności zasad moralnych
+**Robert Merle: Malevil** – kniha, která mě přesvědčila o relativitě morálních zásad.
 
-**Gerard J. Milburn: Inżynieria kwantowa**, Prószyński i S-ka, Warszawa 1999 – w przystępnej formie
-opisuje zjawiska kwantowe i pokazuje przykłady ich praktycznego wykorzystania.
-Moje pierwsze spotkanie z komputerami kwantowymi. 
+**Gerard J. Milburn: Inżynieria kwantowa**, Prószyński i S-ka, Warszawa 1999 – kniha,
+která přístupnou formou popisuje kvantové jevy a ukazuje příklady jejich praktického využití.
+Moje první setkání s kvantovými počítači.  
 
-**Stephen Wolfram: A New Kind of Science** – książka, która miała na mnie ogromny wpływ,
-chociaż jej wcale nie czytałem. Ale już sama nazwa książki a krótkie recenzje
-były wystarczające do tego, abym stworzył dla siebie nowy model świata,
-który umożliwiał znalezienie odpowiedzi na niektóre pytania,
-na które wcześniej odpowiedzi znaleźć nie mogłem.
+**Stephen Wolfram: A New Kind of Science** – kniha, která na mne měla ohromný vliv, i když jsem ji nepřečetl.
+Ale už sám název knihy a stručné recenze stačily k tomu, abych si vytvořil nový model světa,
+který mi dokázal odpovědět na některé otázky, na které jsem dříve nemohl nalézt odpověď.
 
-**Betty Edwards: RYSUNEK odkryj talent dzięki prawej półkuli mózgu**, Łódź 2007 – książka o rysowaniu,
-która ale także tłumaczy sposób, w jaki pracuje mózg i dlaczego myślenie logiczne
-może przeszkadzać w trakcie niektórych czynności.
+**Betty Edwards: RYSUNEK odkryj talent dzięki prawej półkuli mózgu**, Łódź 2007 – knížka o kreslení,
+která ale také ukazuje, jak pracuje mozek a jak logické myšlení může překážet při některých činnostech.
