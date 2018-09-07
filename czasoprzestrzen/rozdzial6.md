@@ -1,43 +1,40 @@
 ## VI. Co máme na mysli pod pojmem čas?
 
-Pojęcie czasu wydaje nam się intuicyjne i znajome. Problem pojawia się wtedy,
-kiedy chcemy podać dokładną definicję. Jesteśmy w podobnej sytuacji jak święty Augustyn,
-który na pytanie, czym jest czas, odpowiedział: "Gdy nikt mnie nie pyta, wiem,
-kiedy jednak chcę to wyjaśnić, nie wiem". Pojęcie czasu jest na tyle nieprecyzyjne i tak trudno go zdefiniować,
-że na przykład brytyjski fizyk Julian Barbour Co máme na mysli pod pojmem časuważa, że trzeba go całkowicie wyeliminować z nauki.
-Bo co to za nauka, która opiera się na tak nieprecyzyjnym pojęciu jak czas,
-którego nikt nie widział i nikt dokładnie nie wie, czym jest.
-Barbour próbuje całą fizykę przebudować tak, aby czas w niej nie występował.
+Pojem čas se nám zdá intuitivně známý. Problém se objeví tehdy, kdy chceme podat přesnou definici.
+Jsme v podobné situaci, jako svatý Augustin, který na otázku , co to je čas, odpověděl:
+"Když se mě nikdo neptá, vím, ale když to chci vysvětlit, tak nevím". Pojem času je tak nepřesný
+a tak těžké je ho definovat, že například britský fyzik Julian Barbour si myslí,
+že je nutné ho úplně odstranit z vědy. Protože jaká to je věda, která se opírá o tak nejasný pojem jako čas,
+který nikdo neviděl a nikdo přesně neví, co vlastně je. Barbour se pokouší celou fyziku přepracovat tak,
+aby v ní čas nevystupoval.
 
-Prawdą jest, że czasu nie możemy bezpośrednio obserwować.
-Możemy jednak zauważać zmiany w otoczeniu i niektóre procesy wykorzystać jako zegar.
-W praktyce można używać różnych procesów okresowych, takich, jak obroty Ziemi czy ruch wahadła.
-Do rozważań teoretycznych dobrze nadaje się zegar świetlny, który składa się z dwóch luster,
-między którymi odbija się foton. Problem polega tylko na tym, że proces cykliczny wcale nie mierzy czasu w sensie jego upływu.
-W ogóle nie zapewnia, że czas płynie do przodu. Wręcz przeciwnie, procesy cykliczne mogą sugerować,
-że czas też może przebiegać w cyklach i powracać do stanu wcześniejszego.
+Je pravda, že čas nemůžeme přímo pozorovat. Můžeme ale pozorovat změny probíhající v okolním prostředí
+a některé procesy využít jako hodiny. V praxi můžeme použít různé periodické procesy,
+jako například otáčení Země nebo pohyb kyvadla. Při různých teoretických úvahách se osvědčují světelné hodiny,
+které se skládají ze dvou zrcadel mezi kterými se odráží foton.
+Jenomže periodické procesy vůbec neměří čas ve smyslu jeho plynutí. Vůbec nezajišťují, že čas plyne dopředu.
+Naopak, periodické procesy mohou vést k přesvědčení, že čas též může probíhat v cyklech
+a vracet se do dřívějšího stavu.
 
-Istnieją również procesy liniowe, które można wykorzystać do mierzenia czasu.
-Na przykład palącą się świecę czy rozpad izotopów. Te lepiej odpowiadają naszemu subiektywnemu wyobrażeniu o czasie,
-jako o czymś płynącym w jednym kierunku od przeszłości przez teraźniejszość do przyszłości.
-Czy takie rozumienie czasu jest tylko naszą iluzją czy kierunek czasu to coś obiektywnego?
-My obserwujemy, jak się starzejemy i wydaje nam się, że nie może być inaczej.
-Tylko, że w mikroświecie jest inaczej! Niektóre cząstki elementarnie się nie starzeją.
-Wszystko wokół nich jest w ruchu, tylko sam ruch nie daje możliwości ustalenia kierunku czasu.
-My obserwujemy nie tylko ruch obiektów, który może odbywać się tam i z powrotem,
-ale również zmiany powiązane ze wzrostem entropii, które są nieodwracalne.
-Czy w mikroświecie jest także coś, co pozwala ustalić kierunek czasu? Okazuje się, że tak.
-Istnieją cząstki elementarne (tzw. kaony), dla których rozpad i powstawanie nie jest symetryczne w czasie,
-co sugeruje, że strzałka czasu pojawia się już na poziomie cząstek elementarnych.
+Existují ale též lineární procesy, které můžeme vyžívat k měření času.
+Například hořící svíčku nebo radioaktivní rozpad izotopů. Ty lépe odpovídají naší subjektivní představě o čase,
+jako o něčem plynoucím jedním směrem od minulosti přes přítomnost do budoucnosti.
+Nemůže být ale taková představa času jenom naší iluzí? Je směr běhu času něčím objektivním?
+My pozorujeme, jak stárneme a zdá se nám, že tomu nemůže být jinak. Ale v mikrosvětě tomu je jinak!
+Některé elementární částice nestárnou. Všechno kolem nich je v pohybu,
+ale samotný pohyb ještě nedává možnost určit směr času. My pozorujeme nejen pohyb objektů,
+který může probíhat tam i zpět, ale také změny související se zvýšením entropie, které jsou nezvratné.
+Je také v mikrosvětě něco, co by dalo možnost určit směr času? Ukazuje se, že ano.
+Existují částice (kaony), jejichž rozpad a vznik nejsou symetrické v čase.
+To sugeruje, že šipka času se objevuje již na úrovni elementárních částic. 
 
-Jeżeli upływ czasu jest czymś obiektywnym, to w jaki sposób jest on uwzględniony w naszych modelach rzeczywistości?
+Jestliže plynutí času existuje objektivně, jak je zahrnuto v našich modelech reálného světa? 
 
-W mechanice klasycznej czas nie płynie.  Jest to po prostu parametr liczbowy, który wkładamy w równania.
-Nie ma żadnego powodu, dla którego tak rozumiany czas miałby płynąć. W równaniach nawet nie rozróżnia się kierunku czasu.
+V klasické mechanice čas neplyne. Je to pouze číselný parametr, který dosazujeme do rovnic.
+Neexistuje žádný důvod, proč by takto chápaný čas měl plynout. Z rovnic také nevyplývá nic o směru času.
 
-Jeżeli kierunek czasu i podział na przeszłość, teraźniejszość i przyszłość jest obiektywną właściwością naszego Wszechświata,
-to potrzebujemy modelu, który to w jakiś sposób uwzględnia.
-Jedną z możliwości jest wykorzystanie idei brytyjskiego fizyka Stephena Wolframa,
-który proponuje modelowanie Wszechświata, jako automatu komórkowego.
+Jestliže směr času a rozlišení na minulost, přítomnost a budoucnost je objektivní vlastností našeho vesmíru,
+pak potřebujeme model, který  to nějak zohledňuje. Jednou z možností je využít ideu britského fyzika
+Stephena Wolframa, jenž navrhuje modelovat vesmír jako buněčný automat. 
 
-## [VII. Wszechświat jako automat komórkowy](rozdzial7)
+## [VII.Vesmír jako buněčný automat](rozdzial7)
