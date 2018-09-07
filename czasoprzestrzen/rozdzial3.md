@@ -1,117 +1,103 @@
 ---
 mathjax: true
 ---
-## III. Matematika i mózg
+## III. Matematika a mozek
 
-Często ten sam problem można rozwiązywać za pomocą równań matematycznych,
-albo geometrycznie. Grawitację można na przykład uznać za siłę i opisać równaniem,
-albo tłumaczyć geometrycznie, za pomocą zakrzywienia czasoprzestrzeni.
+Tentýž problém můžeme často řešit buď pomocí matematických rovnic anebo geometricky.
+Například gravitaci můžeme považovat za sílu a  popsat ji rovnicí anebo ji vysvětlit geometricky zakřivením prostoročasu.
 
-*Prawdopodobnie nie chodzi tylko o użycie innego narzędzia, ale i innej półkuli mózgu.
-Równaniami zajmuje się lewa półkula a prawa wyobraźnią geometryczną.
-Dlatego też, dla pełnego zrozumienia warto nie tylko potrafić coś obliczyć,
-ale również umieć to sobie wyobrazić.*
+*Pravděpodobně nejde jen o použítí jiného nástroje, ale i jiné mozkové hemisféry.
+Rovnicemi se zabývá levá hemisféra a geometrickou představivostí pravá.
+Proto pro plné porozumění stojí za to nejen umět něco vypočítat, ale též si to umět představit.*
 
-Liczby możemy rozumieć, jako abstrakcyjne symbole, albo możemy je sobie wyobrażać,
-jako punkty na prostej, tak zwanej osi liczbowej.
-Punkt odpowiadający liczbie x znajduje się w odległości x od punktu oznaczonego,
-jako zero (w jedną stronę dodatnie, w drugą stronę ujemne).
-Jeżeli każdemu punktowi na prostej przyporządkujemy dokładnie jedną liczbę,
-to otrzymujemy tak zwane liczby rzeczywiste.
+Čísla můžeme chápat jako abstraktní symboly nebo si je můžeme představovat jako body na přímce, nazývané číselnou osou.
+Bod odpovídající číslu x se nachází ve vzdálenosti x od bodu označeného jako nula
+(na jednu stranu kladné a na druhou záporné). Jestliže každému bodu na přímce přiřadíme právě jedno číslo,
+dostaneme tak zvaná reálná čísla.
 
-Płaszczyznę możemy połączyć z liczbami na przykład w taki sposób,
-że każdy punkt płaszczyzny utożsamiamy z parą liczb rzeczywistych.
-Otrzymujemy w ten sposób współrzędne każdego punktu płaszczyzny.
+Rovinu můžeme spojit s čísly například tím způsobem, že každý bod roviny ztotožníme s dvojicí reálných čísel.
+Dostaneme tímto způsobem souřadnice každého bodu roviny.
 
 
-(Łatwo można w ten sposób rozszerzyć geometrię na dowolną ilość wymiarów n, tylko każdy punkt
-zamiast parą liczb, będzie zdefiniowany ciągiem n liczb rzeczywistych x=(x1,x2,...,xn).
-Jeśli dla każdej pary elementów x i y wprowadzimy pojęcie wzajemnej ich odległości
-zdefiniowanej wzorem
+(Tím způsobem můžeme snadno rozšířit geometrii na libovolný počet rozměrů n,
+jenom každý bod místo dvojice čísel bude definovaný posloupností n reálných čísel x=(x1,x2,...,xn).
+Jestliže pro kažkou dvojci bodů x a y zavedeme pojem jejich vzájemné vzdálenost vzorcem
 
 $$ d = \sqrt {(y_1-x_1)^2+ ... +(y_n-x_n)^2}  $$,
 
-to otrzymamy przestrzeń euklidesową.)
+získáme euklidovský prostor)
 
-Różne kształty geometryczne, na przykład prosta albo okrąg, są w takim ujęciu zbiorem par liczb rzeczywistych
-spełniających określone równanie. Problemy geometryczne można w ten sposób przekształcić na rozwiązywanie równań,
-co z praktycznego punktu widzenia bywa wygodniejsze.
+Různé geometrické útvary, například přímka nebo kružnice, jsou v tomto smyslu množinou bodů
+splňujících příslušnou rovnici. Geometrické problémy pak můžeme vyřešit pomocí rovnic,
+což z praktického hlediska bývá výhodnější.
 
-Pozornie wydaje się, że jest obojętne, czy problem rozwiązujemy geometrycznie czy analitycznie,
-bo wynik powinien być taki sam. Nie chodzi jednak tylko o wynik, ale również o zrozumienie całego problemu.
-Jeżeli tylko rozwiązujemy równania i nie mamy przez cały czas świadomości tego, co właściwie obliczamy,
-mogą później powstać problemy przy interpretacji wyników i dopasowywaniu ich do rzeczywistości.
-Jeżeli problem formułujemy geometrycznie, można czasami łatwiej zauważyć różne aspekty,
-których w równaniach nie widzimy.
+Zdánlivě je to jedno, jestli problém řešíme geometricky nebo algebraicky, protože výsledek musí být stejný.
+Nejde ale pouze o výsledek, jde rovniež o pochopení celého problému. Jestliže pouze řešíme rovnice
+a  nebereme po celou dobu na vědomí, co vlastně řešíme,  mohou později vzniknout problémy při interpretaci výsledků
+a určení, co vlastně znamenají v reálném světě. Jestliže problém formulujeme geometricky,
+můžeme si někdy snáze všimnout různých aspektů, které v rovnicích nevidíme. 
 
-Pokażemy to na przykładzie grawitacji. Zgodnie z  teorią grawitacji Newtona mamy równanie
+Ukažme si to na příkladu gravitace. Podle Newtonovy gravitační teorie máme rovnici
 
 $$ F = G * \frac{M * m}{r^2}  $$
 
-gdzie F jest siłą przyciągającą, G stałą grawitacji, M masą jednego obiektu,  m masą drugiego obiektu,
-r odległością pomiędzy  obiektami. Równanie sprawdza się w codziennej praktyce, natomiast wygląda na to,
-że dla bardzo dużych odległości może wymagać modyfikacji. Tylko nie wiemy jakich, ani dlaczego.
-Możemy postępować podobnie jak Kepler przy badaniu ruchu planet.
-Zebrać ogromną ilość informacji uzyskanych na podstawie obserwacji i próbować modyfikować równanie w taki sposób,
-aby otrzymać zgodność z otrzymanymi danymi. Nawet, jeżeli nam się uda, to nie będziemy wiedzieli, dlaczego tak jest.
+kde F je přitažlivá síla, G je gravitační konstanta, M je hmotnost jednoho objektu, m hmotnost druhého objektu,
+r vzdálenost mezi objekty. Rovnice dobře funguje v každodenní praxi,  ale zdá se, že pro hodně velké vzdálenosti
+může být potřebná modifikace. Jenomže nevíme ani jaká, ani proč. Můžeme postupovat podobně jak Kepler
+při zkoumání pohybu planet. Sebrat ohromné množství informací na základě pozorování a zkoušet modifikovat rovnice
+takovým způsobem, abychom dosáhli shody se získanými údaji. Dokonce i když uspějeme, nebudeme vědět, proč  je to právě tak.
 
-Jeżeli spróbujemy na grawitację spojrzeć geometrycznie, jako na zakrzywienie czasoprzestrzeni,
-trudniej będzie uzyskać dokładne obliczenia, natomiast dużo łatwiej możemy dostrzec, że problem jest związany z nieskończonością.
+Jestliže se pokusíme podívat se na gravitaci jako na zakřivení prostoročasu,  bude těžší získat přesné výsledky,
+ale zato bude mnohem lehčí si všimnout toho, že problém souvisí s nekonečnem.
 
-Nie trzeba sobie wyobrażać nieskończonej czterowymiarowej czasoprzestrzeni, wystarczy ograniczyć się do dwóch wymiarów.
-Dwuwymiarową czasoprzestrzeń możemy sobie wyobrazić, jako naprężoną płaszczyznę,
-w której pod ciężarem obiektu tworzy się dołek (rys. 6).
+Není potřebné si představovat nekonečný čtyřrozměrný prostoročas, stačí se omezit do dvou rozměrů.
+Takový prostoročas si můžeme představit jako pružnou rovinu, ve které se pod tíhou objektu utvoří důlek (obr. 6).
 
-![rysunek6](../assets/img/rysunek6.png)
+![Obrázek6](../assets/img/rysunek6.png)
 
-Rysunek 6
+Obrázek 6
 
-Jeżeli mamy nieskończoną płaszczyznę, to deformacja może rozciągać się w nieskończoność,
-zgodnie z opisem powyżej podanego równania. Można sobie natomiast łatwo wyobrazić czasoprzestrzeń jako elastyczną kulę.
-W tym przypadku nie mamy żadnej nieskończoności i deformacja będzie ograniczona tylko do jednej półkuli (rys 7).  
+Jestliže máme nekonečnou rovinu, pak deformace může být roztažena do nekonečna shodně s výše uvedenou rovnicí.
+Zatímco snadno si můžeme představit prostoročas jako pružnou kouli. V tom případě nemáme žádné nekonečno
+a deformace bude omezena pouze na jednu polokouli. (obr. 7).  
 
-![rysunek7](../assets/img/rysunek7.png)
+![Obrázek7](../assets/img/rysunek7.png)
 
-Rysunek 7
+Obrázek 7
 
-Poza tym, że od razu widzimy, że w tym wypadku trzeba równania modyfikować, mamy od razu wskazówkę w jaki sposób. Jednocześnie możemy sobie uświadomić, że w równaniach Newtona (i nie tylko Newtona, ale w prawie wszystkich)
-jest "ukryte" założenie  istnienia nieskończoności. 
+Nejenomže hned vidíme, že v tom případě je potřeba rovnice zmodifikovat, ale hned máme i náznak, jakým způsobem.
+Zaroveň si můžeme uvědomit, že Newtonovy rovnice (a ne jenom Newtony, ale téměř všechny)
+obsahují v sobě předpoklad nekonečna. 
 
-Problem nieskończoności jest w pewnym sensie kluczowy. Jeżeli Wszechświat jest skończony, musi być zakrzywiony.
+Problém nekonečna je v jistém smyslu klíčový. Jestliže je vesmír konečný, nemůže být nezakřivený.
 
-Już wcześniej pokazaliśmy, że w drodze obserwacji nie można wykryć żadnej krzywizny przestrzeni.
-Wynika to z faktu, że tak naprawdę widzimy tylko światło, które jest od nas w odległości zero.
-Obraz niezakrzywionej trójwymiarowej przestrzeni powstaje tylko w naszym umyśle.
-Nie mamy możliwości przemieszczania się na duże odległości i prowadzenia jakichś pomiarów odległości
-lub kątów pomiędzy różnymi galaktykami, które na dodatek są przez cały czas w ruchu.
-Z jednego miejsca w przestrzeni nie można zmierzyć jej krzywizny.
+Již dříve jsme ukázali, že pozorováním se nedá zjistit žádné zakřivení prostoru.
+Vyplývá to z faktu, že ve skutečnosti vidíme pouze světlo, které má od nás nulovou vzdálenost.
+Obraz nezakřiveného trojrozměrného prostoru vzniká jen v naší mysli.
+Nemáme možnost přemísťovat se na velké vzdálenosti a provádět nějaká měření vzdáleností nebo úhlů
+mezi různými galaxiemi, které jsou navíc stále v pohybu.  Z jednoho místa v prostoru se nedá změřit jeho zakřivení.
 
-Teraz widzimy, że obliczenia też mogą być mylące. Z równań może wychodzić niezakrzywiona przestrzeń dlatego,
-że używamy matematyki, w której oś liczbowa jest nieskończona. Jeżeli na początku zakładamy,
-że pusta przestrzeń jest opisana przez równania, które w jakiś sposób zakładają jej nieskończoność,
-to nic dziwnego, że później otrzymamy wynik, że przestrzeń jest nieskończona.
+Nyní vidíme, že výpočty též  mohou být matoucí. Z rovnic může vycházet nezkřivený prostor pouze proto,
+že používáme matematiky ve které je číselná osa nekonečná. Jestliže na začátku předpokládáme,
+že prázdný prostor je popsán rovnicí, ve které je nějakým způsobem obsažen předpoklad nekonečna,
+pak se nemůžeme divit, že  později obdržíme výsledek, že prostor je nekonečný. 
 
-Z drugiej strony, za skończonością przestrzeni przemawia kilka logicznych argumentów.
-Po pierwsze - żadnej nieskończoności w rzeczywistym świecie nie można potwierdzić - ani obserwacyjnie,
-ani eksperymentalnie. Po drugie - z przestrzeni skończonej nie może stać się w skończonym czasie
-przestrzeń nieskończona. Gdyby przestrzeń miała być nieskończona, to musiałaby być nieskończona już na początku.
-Wydaje się jednak, że czas i przestrzeń są powiązane w czasoprzestrzeni w taki sposób, że to,
-co jest dla jednego obserwatora czasem, może być dla innego obserwatora przestrzenią i na odwrót.
-W tym wypadku nie wydaje się, że Wszechświat mógłby istnieć tylko przez skończony czas
-a przestrzeń byłaby nieskończona.
-Skończony Wszechświat daje także możliwość wytłumaczenia zjawisk,
-których współczesna kosmologia nie potrafi wytłumaczyć. Na przykład istnienie ogromnych czarnych dziur
-w bardzo młodym Wszechświecie. Jeżeli założymy, że Wszechświat ma kształt kuli,
-to odległości obserwowanych obiektów mogą być inne, niż myślimy.
-W niezakrzywionej przestrzeni intensywność światła maleje z kwadratem odległości.
-Natomiast na powierzchni kuli fala światła najpierw słabnie, ale po osiągnięciu drugiej półkuli ponownie się wzmacnia.
-Może też przebiegać po powierzchni kuli kilkakrotnie tam i z powrotem.
-Odległości i wiek widzialnych obiektów mogą być w tym przypadku całkowicie inne niż kiedy zakładamy,
-że przestrzeń jest niezakrzywiona.
+Existuje však několik logických argumentů pro předpoklad, že je prostor konečný.
+Zaprvé žadné nekonečno ve skutečném světě se nedá potvrdit ani pozorováním ani pokusem.
+Zadruhé, jestliže předpokládáme, že vesmír má začátek v čase, pak čas musí být konečný.
+Z konečného prostoru se nemůže v konečném čase stát nekonečný prostor.
+Kdyby prostor měl být nekonečný, pak by musel být nekonečný od počátku. Zdá se ale, že prostor a čas
+jsou v prostoročasu spojeny takovým způsobem, že to, co je pro jednoho pozorovatele časem,
+může být pro jiného pozorovatele prostorem a naopak. V tom případě se zdá nepravděpodobné,
+že čas by mohl být konečný a prostor nekonečný. Konečný vesmír dává také možnost vysvětlit jevy,
+které současná kosmologie vysvětlit neumí. Například existenci ohromných černých děr v ranném vesmíru.
+Jestliže připustíme, že vesmír má tvar koule, pak vzdálenosti pozorovaných objektů mohou být jiné než si myslíme.
+V nezakřiveném prostoru intenzita světla klesá se čtvercem vzdálenosti. Zatímco na povrchu koule světelná vlna nejprve slábne, ale po dosažení druhé polokoule znovu sílí. Může též probíhat po povrchu koule mnohokrát tam i zpět.
+Vzdálenosti i stáří pozorovaných objektů mohou být v tom případě  úplně jiné než v případě, kdy předpokládáme,
+že prostor je nezakřivený.
 
-Na tym etapie nie mamy żadnego dowodu na to, że przestrzeń jest skończona.
-Mamy natomiast powody, aby zbadać sprawę dokładniej. Jeżeli założymy możliwość, że przestrzeń jest skończona,
-to z tego wynika, że nie może być przestrzenią euklidesową.
-W tym przypadku trzeba się przyjrzeć geometriom nieeuklidesowym.
+V této fázi nemáme žádný důkaz, že prostor je konečný. Máme však dobré důvody pro důkladné prozkoumání
+takového předpokladu. Jestliže připustíme možnost, že prostor je konečný, pak z toho plyne, že nemůže být nezakřivený.
+V tom případě se musíme podívat na geometrie neeuklidovské. 
 
-## [IV. Geometrie nieeuklidesowe i ustalanie odległości](rozdzial4)
+## [IV. Neeuklidovské geometrie a určování vzdáleností](rozdzial4)
