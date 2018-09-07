@@ -1,48 +1,42 @@
+## Pravděpodobně všechno je jinak
+### Obsah
 
-## Prawdopodobnie wszystko jest inaczej
+[Úvod](wprowadzenie)
 
-![Okładka Prawdopodobnie wszystko jest inaczej](../assets/img/prawdopodobnie.jpg)
-Książkę można zamówić pod adresem [https://www.mybook.pl/6/0/bid/303](https://www.mybook.pl/6/0/bid/303)
+[I. Mūže počítač myslet?](rozdzial1)
 
-## Prawdopodobnie wszystko jest inaczej
-### Spis treści
+[II. Definování pojmů](rozdzial2)
 
-[Wprowadzenie](wprowadzenie)
+[III. Co to je informace?](https://www.mybook.pl/6/0/bid/303)
 
-[I. Czy komputer może myśleć?](rozdzial1)
+[IV. Modelování skutečnosti](https://www.mybook.pl/6/0/bid/303)
 
-[II. Definiowanie pojęć](rozdzial2)
+[V. Intelektuální možnosti současných počítačů](https://www.mybook.pl/6/0/bid/303)
 
-[III. Co to jest informacja?](https://www.mybook.pl/6/0/bid/303)
+[VI. Několik úvah o evoluci](https://www.mybook.pl/6/0/bid/303)
 
-[IV. Modelowanie rzeczywistości](https://www.mybook.pl/6/0/bid/303)
+[VII. Proč si myslíme, že platí nějaké přírodní zákony?](https://www.mybook.pl/6/0/bid/303)
 
-[V. Intelektualne możliwości współczesnych komputerów](https://www.mybook.pl/6/0/bid/303)
+[VIII. Úvahy o geometrii vesmíru](https://www.mybook.pl/6/0/bid/303)
 
-[VI. Kilka uwag na temat ewolucji](https://www.mybook.pl/6/0/bid/303)
+[IX. Co považujeme za možné a co za nemožné](https://www.mybook.pl/6/0/bid/303)
 
-[VII. Dlaczego sądzimy, że obowiązują jakieś prawa przyrody?](https://www.mybook.pl/6/0/bid/303)
+[X. Proč si myslíme, že myslíme logicky?](https://www.mybook.pl/6/0/bid/303)
 
-[VIII. Rozważania na temat geometrii Wszechświata](https://www.mybook.pl/6/0/bid/303)
+[XI. Odkud se berou nové nápady?](https://www.mybook.pl/6/0/bid/303)
 
-[IX. Co uważamy za możliwe, a co za niemożliwe](https://www.mybook.pl/6/0/bid/303)
+[XII. Víra, svobodná vůle a morálka lidí a počítačů](https://www.mybook.pl/6/0/bid/303)
 
-[X. Dlaczego sądzimy, że myślimy logicznie?](https://www.mybook.pl/6/0/bid/303)
+[XIII. Možnosti budoucích počítačů](https://www.mybook.pl/6/0/bid/303)
 
-[XI. Skąd się biorą nowe pomysły?](https://www.mybook.pl/6/0/bid/303)
+[XIV. Závěr](https://www.mybook.pl/6/0/bid/303)
 
-[XII. Wiara, wolna wola oraz moralność ludzi i komputerów](https://www.mybook.pl/6/0/bid/303)
+[PŘÍLOHA A Příklady buněčných automatů](https://www.mybook.pl/6/0/bid/303)
 
-[XIII. Możliwości przyszłych komputerów](https://www.mybook.pl/6/0/bid/303)
+[PŘÍLOHA B Program v PHP pro testování buněčných automatů](https://www.mybook.pl/6/0/bid/303)
 
-[XIV. Zakończenie](https://www.mybook.pl/6/0/bid/303)
+[PŘÍLOHA C Různé modely prostoročasu](https://www.mybook.pl/6/0/bid/303)
 
-[DODATEK A Przykłady automatów komórkowych](https://www.mybook.pl/6/0/bid/303)
-
-[DODATEK B Program w PHP do testowania automatów komórkowych](https://www.mybook.pl/6/0/bid/303)
-
-[DODATEK C Różne modele czasoprzestrzeni](https://www.mybook.pl/6/0/bid/303)
-
-[DODATEK D Kilka zadań dla dociekliwych](https://www.mybook.pl/6/0/bid/303)
+[PŘÍLOHA D Několik úloh pro hloubavé](https://www.mybook.pl/6/0/bid/303)
 
 [Literatura](literatura)
