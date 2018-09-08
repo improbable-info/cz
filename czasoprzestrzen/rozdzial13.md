@@ -1,34 +1,30 @@
 ## XIII. Zakończenie
 
-Rzeczywistość zawsze jest bogatsza niż jakikolwiek model.
-W celu jak najlepszego odzwierciedlenia rzeczywistości modele stają się coraz bardziej rozbudowane
-i używany aparat matematyczny jest na tyle skomplikowany, że oprócz specjalistów w danej dziedzinie nikt go nie rozumie.
-Jednak zrozumienie jakiegoś modelu nie oznacza zrozumienia rzeczywistości.
-Równania nic nie mówią o tym, w jaki sposób mamy interpretować wyniki obliczeń.
+Skutečnost je vždy bohatší než jakýkoliv model. Abychom se co nejvíce přiblížili skutečnosti,
+modely se stávají čím dál komplikovanější a používaný matematický aparát je tak složitý,
+že mu kromě specialistů v daném oboru nikdo nerozumí. Jenomže rozumět nějakému modelu,
+to ještě neznamená rozumět realitě. Rovnice nic neříkají o tom, jak máme interpretovat výsledky výpočtů.
 
-Przykładem nietypowej dla nas interpretacji wyniku obliczeń jest historia opisana przez Marcela Graneta
-w jego książce "La pensée chinoise". Opisuje legendę, w której generałowie zastanawiali się przed bitwą,
-czy przypuścić atak, czy też się wycofać. Nie mogąc się zdecydować, postanowili głosować.
-Okazało się, że trzech z nich opowiada się za atakiem, ośmiu zaś za odwrotem.
-Wydawałoby się, że wynik trzeba zinterpretować tak, że trzeba się wycofać.
-A jednak w wyniku tego głosowania generałowie postanowili zaatakować,
-bo liczba "trzy" dla nich była liczbą wyrażającą jednomyślność. Zaatakowali i odnieśli zwycięstwo.
+Příklad pro nás netypické interpretace výsledku výpočtů uvádí Marcel Granet ve své knize
+"La pensée chinoise". Popisuje legendu, ve které se generálové před bitvou rozhodovali,
+zda zaútočit nebo ustoupit. Protože se nemohli dohodnout, rozhodli se hlasovat.
+Ukázalo se, že tři jsou pro útok a osm je proti. Zdálo by se, že výsledek hlasování
+je nutné interpretovat tak, že je třeba ustoupit. A přesto v důsledku toho hlasování generálové
+se rozhodli zaútočit, protože číslo "tři" pro ně bylo číslem vyjadřujícím jednomyslnost.
+Zaútočili a zvítězili.
 
-Fakt, że coś obliczymy jeszcze nie oznacza, że wiemy jak to interpretować.
-Rzeczywistość nie jest czarno-biała i jednoznaczna.
-Przy podejmowaniu jakiekolwiek decyzji postępujemy według jakiegoś uproszczonego schematu,
-i zależy, jakie szczegóły są dla nas w danej chwili ważne.
-Na podstawie tego, co jest napisane poniżej, decydujemy się na **TAK** czy **NIE**?
+To, že něco vypočteme, ještě neznamená, že víme jak to interpretovat. Realita není černobílá a jenoznačná. Při jakémkoliv rozhodování postupujeme podle  nějakého zjednodušeného schématu a záleží na tom jaké detaily jsou pro nás v dané chvíli důležité. Na základě toho, co je napsáno níže, rozhodneme se pro **ANO** nebo **NE**?
 
 ![TakNie](../assets/img/TakNie.png)
 
-Bez względu na inne czynniki, ważne jest to, z jakiej odległości patrzymy.
+Kromě jiného záleží na tom, z jaké vzdálenosti se díváme.
 
-W przypadku małych odległości możemy uważać, że światło porusza się z nieskończoną prędkością,
-że wszystko jest takie, jakim to widzimy. Przy tym założeniu możemy uważać, że wokół siebie widzimy trójwymiarową przestrzeń.
+Při malých vzdálenostech si můžeme myslet, že se světlo pohybuje nekonečnou rychlostí
+a že všechno je takové, jaké to vidíme. Za těchto podmínek si můžeme myslet,
+že okolo sebe vidíme trojrozměrný prostor.
 
-Jeżeli oglądamy obszary na tyle oddalone, że światło od nich do nas dochodzi z zauważalnym opóźnieniem,
-wtedy nie oglądamy przestrzeni, tylko różne części czasoprzestrzeni.
-Interpretacja tego, co widzimy nie jest wynikiem obliczeń, tylko naszych przemyśleń...
+Jestliže pozorujeme oblasti tak vzdálené, že světlo od nich k nám přichází s výrazným zpožděním,
+potom nesledujeme prostor, ale různé části prostoročasu. Interpretace toho, co vidíme,
+není výsledkem výpočtů, ale našeho myšlení...
 
 ## [Literatura](literatura) 
