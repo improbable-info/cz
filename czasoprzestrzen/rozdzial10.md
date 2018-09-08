@@ -1,13 +1,11 @@
-## X. Zasada względności w czasoprzestrzeni
+## X. Princip relativity v prostoročasu
 
-Do analizy warto zawsze wybrać na początku najprostszy model.
-Dlatego nasze rozważania rozpoczniemy od jednowymiarowej przestrzeni, którą możemy sobie wyobrażać,
-jako prostą **p**, w której mamy nieruchomego obserwatora **O**.
-Jeżeli dodamy czas, jako prostą **t** ortogonalną do przestrzeni **p**, to otrzymamy dwuwymiarową czasoprzestrzeń (rys. 8).
+Vždy stojí za to pro analýzu vybrat co nejjednodušší model.
+Proto naše úvahy začneme od jednorozměrného prostoru, který si můžeme představit ve formě přímky **p**, ve kterém máme nehybného pozorovatele **O**. Jestliže přidáme čas jako přímku **t** kolmou k prostoru **p**, dostaneme dvourozměrný prostoročas (obr. 8).
 
-![rysunek8](../assets/img/rysunek8.png)
+![Obrázek8](../assets/img/rysunek8.png)
 
-Rysunek 8
+Obrázek 8
 
 Zakładamy, że nasz obserwator nie rusza się w przestrzeni (czy dokładniej:
 nie rusza się względem systemu współrzędnych, który jest z nim powiązany),
@@ -15,18 +13,18 @@ to znaczy, że w czasoprzestrzeni będzie poruszać się tylko w kierunku osi **
 i w kolejnych chwilach **t1**, **t2**, **t3** będzie znajdował się w punktach
 **t1**, **t2**, **t3** na osi **t** (rysunek 9).
 
-![rysunek9](../assets/img/rysunek9.png)
+![Obrázek9](../assets/img/rysunek9.png)
 
-Rysunek 9
+Obrázek 9
 
 Dodajmy do naszego modelu jeszcze jednego obserwatora P,
 który będzie się od obserwatora O oddalać ruchem prostoliniowym jednostajnym.
 Jego tor w czasoprzestrzeni będzie tworzył prostą nachyloną względem osi czasu obserwatora O
 pod pewnym kątem, zależnym od szybkości, jaką się obserwator P oddała od obserwatora O (rysunek 10).
 
-![rysunek10](../assets/img/rysunek10.png)
+![Obrázek10](../assets/img/rysunek10.png)
 
-Rysunek 10
+Obrázek 10
 
 Zasada względności mówi nam jednak, że ruch jest względny.
 Jeżeli mamy dwóch obserwatorów, którzy od siebie się oddalają, nie da się stwierdzić,
@@ -35,9 +33,9 @@ który jest w spoczynku a który w ruchu. To znaczy, że obserwator P może twie
 Dla niego czas płynie w kierunku jego ruchu w czasoprzestrzeni,
 czyli wzdłuż linii **u** a przestrzeń przebiega dla niego w kierunku linii **r** (rysunek 11).
 
-![rysunek11](../assets/img/rysunek11.png)
+![Obrázek11](../assets/img/rysunek11.png)
 
-Rysunek 11
+Obrázek 11
 
 Jeżeli trzymamy się zasady względności, to sytuacja obserwatora O i obserwatora P musi być analogiczna.
 
