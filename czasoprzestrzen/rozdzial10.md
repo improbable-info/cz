@@ -7,68 +7,64 @@ Proto naše úvahy začneme od jednorozměrného prostoru, který si můžeme p�
 
 Obrázek 8
 
-Zakładamy, że nasz obserwator nie rusza się w przestrzeni (czy dokładniej:
-nie rusza się względem systemu współrzędnych, który jest z nim powiązany),
-to znaczy, że w czasoprzestrzeni będzie poruszać się tylko w kierunku osi **t**
-i w kolejnych chwilach **t1**, **t2**, **t3** będzie znajdował się w punktach
-**t1**, **t2**, **t3** na osi **t** (rysunek 9).
+Předpokládáme, že náš pozorovatel se nepohybuje v prostoru (nebo přesněji:
+nepohybuje se vzhledem k systému souřadnic, který je s ním spojen), to znamená že v prostoročasu
+se bude pohybovat pouze ve směru osy **t** 
+a v následujících okamžicích **t1**, **t2**, **t3** se bude nacházet
+v bodech **t1**, **t2**, **t3** na ose **t** (obr. 9).
 
 ![Obrázek9](../assets/img/rysunek9.png)
 
 Obrázek 9
 
-Dodajmy do naszego modelu jeszcze jednego obserwatora P,
-który będzie się od obserwatora O oddalać ruchem prostoliniowym jednostajnym.
-Jego tor w czasoprzestrzeni będzie tworzył prostą nachyloną względem osi czasu obserwatora O
-pod pewnym kątem, zależnym od szybkości, jaką się obserwator P oddała od obserwatora O (rysunek 10).
+Přidejme do našeho modelu ještě jednoho pozorovatele P, který se bude od pozorovatele O
+vzdalovat rovnoměrným přímočarým pohybem. Jeho dráha v prostoročasu bude mít tvar přímky
+nakloněné vzhledem časové ose pozorovatele O pod jistým úhlem,
+jehož velikost bude závislá na rychlosti, jakou se pozorovatel P vzdaluje od pozorovatele O (obr. 10).
 
 ![Obrázek10](../assets/img/rysunek10.png)
 
 Obrázek 10
 
-Zasada względności mówi nam jednak, że ruch jest względny.
-Jeżeli mamy dwóch obserwatorów, którzy od siebie się oddalają, nie da się stwierdzić,
-który jest w spoczynku a który w ruchu. To znaczy, że obserwator P może twierdzić,
-że to on nie rusza się w przestrzeni a obserwator O oddała się od niego.
-Dla niego czas płynie w kierunku jego ruchu w czasoprzestrzeni,
-czyli wzdłuż linii **u** a przestrzeń przebiega dla niego w kierunku linii **r** (rysunek 11).
+Princip relativity nám říká, že pohyb je relativní. Jestliže máme dva pozorovatele,
+kteří se od sebe vzdalují, není možné určit, kdo je v klidu a kdo se pohybuje.
+To znamená, že pozorovatel P může tvrdit, že to on je v klidu a nepohybuje se v prostoru
+a že pozorovatel O se od něj vzdaluje. Pro něj čas plyne ve směru jeho pohybu v prostoročasu,
+to znamená podél přímky **u** a prostor pro něj probíhá ve směru přímky **r** (obrázek 11).
 
 ![Obrázek11](../assets/img/rysunek11.png)
 
 Obrázek 11
 
-Jeżeli trzymamy się zasady względności, to sytuacja obserwatora O i obserwatora P musi być analogiczna.
+Pokud se budeme držet principu relativity, pak situace pozorovatele O i pozorovatele P
+musí být analogická.
 
-Ze względu na to, że całą operację możemy powtarzać rozpoczynając od obserwatora P
-i prędkość oddalania się następnego obserwatora możemy zmieniać, wydaję się,
-że w naszej czasoprzestrzeni może przestrzeń i czas przebiegać w dowolnym kierunku.
-Ponieważ światło dla każdego obserwatora musi poruszać się tak samo, oznacza to,
-że rozprzestrzenia się z tą samą szybkością we wszystkich kierunkach czasoprzestrzeni
-i że dla światła nie istnieje czas.
+Vzhledem k tomu, že celou operaci můžeme opakovat počínaje pozorovatelem P
+a rychlost vzdalování se náledujícího pozorovatele můžeme měnit, zdá se,
+že v našem prostoročase může prostor i čas probíhat libovolným směrem.
+Protože světlo se musí pohybovat stejně pro každého pozorovatele, znamená to,
+že se šíří stejnou rychlostí všemi směry prostoročasu a že pro světlo neexistuje čas.
 
-Od razu jednak widać kilka problemów. Na przykład co to właściwie jest szybkość światłą,
-jeżeli dla światła nie płynie czas i cała czasoprzestrzeń dla niego oznacza tylko przestrzeń.
-Albo jeszcze poważniejszy problem dotyczący przyczynowości.
-Jeżeli kierunek czasu w czasoprzestrzeni  może być dowolny,
-to dla dwóch różnych obserwatorów może biec w przeciwnym kierunku.
-To naruszałoby przyczynowość. W tym miejscu musimy w naszych rozważaniach zatrzymać się i pomyśleć,
-gdzie jest błąd i które nasze założenia trzeba zmienić.
+Hned je ale vidět několik problémů. Například co to vlastně je rychlost světla,
+jestliže pro světlo  neplyne čas a celý prostoročas pro něj znamená jenom prostor.
+Anebo ješte závažnější problém týkající se příčinnosti.
+Jestliže směr času v prostoročasu může být libovolný, pak se může stát,
+že pro dva různé pozorovatele  může plynout v opačném směru. To by ovšem porušovalo kauzalitu.
+Tady se musíme v našich úvahách  zastavit a promyslet, kde může být chyba
+a které naše předpoklady musíme změnit.
 
-Znalezienie rozwiązania często bywa trudne właśnie dlatego, że niektóre założenia przyjmujemy nie świadomie.
-Jesteśmy nauczeni i przyzwyczajeni do pewnych poglądów  i wcale o nich nie myślimy jako o założeniach.
-Także nie jest łatwo wpaść na to, że problem z przyczynowością może być spowodowany tym,
-że piszemy i rysujemy na płaskiej kartce papieru i że w wyniku tego nasz model jest plaski.
-Tylko jeżeli nie płaski, to jaki?
-Pierwszym pomysłem jest, że płaszczyznę zaczniemy zginać i zrobimy z niej powierzchnię kuli.
-Tylko że kula nie tylko nie rozwiązuje problemu, ale jeszcze stwarza następny:
-co się stanie, jeżeli obserwator obiegnie w czasie całą kulę i powróci do miejsca,
-w którym był na początku? Wszystkie tę problemy jednak znikną, jeżeli kula zacznie się rozszerzać.
-Otrzymamy inne wyobrażenie o czasie. Czas tu ma dwa wymiary.
-Czas lokalny, różny dla różnych obserwatorów, który w zależności od szybkości ma różny kierunek
-w czasoprzestrzeni i czas kosmiczny w kierunku rozszerzania się czasoprzestrzeni,
-który w danym punkcie jest jednakowy dla wszystkich obserwatorów i dotyczy także światła.
-W takim modelu nie jest naruszona zasada przyczynowości,
-bo chociaż czas lokalny dwóch obserwatorów płynie w odwrotnym kierunku, to czas kosmiczny powoduje,
-że kolejność zdarzeń jest zachowana.
+Často je těžké najít řešení z toho důvodu, že některé předpoklady přijímáme nevědomky.
+Jsme naučeni a přivyklí na určité názory a vůbec o nich neuvažujeme jako o předpokladech.
+Takže není snadné přijít s nápadem, že problém s kauzalitou může být způsoben tím,
+že píšeme a kreslíme na plochém listu papíru a v důsledku toho je náš model plochý.
+Jenomže jestli není plochý, tak jaký? První nápad je, že rovinu začneme ohýbat a uděláme z ní povrch koule.
+Jenomže koule nejenže problém neřeší, ale ještě vytvoří další: co se stane,
+jestliže pozorovatel oběhne celou kouli v čase a vrátí se do místa, ze kterého vyšel?
+Všechny tyto problémy zmizí, jestliže se koule začne rozpínat.
+Získáme úplně jinou představu o čase. Čas tu má dva rozměry. Lokální čas,
+který je pro každého pozorovatele jiný a jeho směr v prostoročasu závisí na rychlosti
+a čas kosmický ve směru rozšiřování se vesmíru, který je v daném místě stejný pro všechny pozorovatele
+a týká se i světla. V takovém modelu není narušena zásada kauzality, protože i v případě,
+že lokální čas dvou pozorovatelů běží v opačném směru, čas kosmický zajistí, že sled událostí je zachován.
 
-## [XI. Zespolony czas i interwał czasoprzestrzenny ](rozdzial11) 
+## [XI. Komplexní čas a prostoročasový interval ](rozdzial11) 
