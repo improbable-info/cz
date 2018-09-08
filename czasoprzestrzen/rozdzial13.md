@@ -15,7 +15,7 @@ Zaútočili a zvítězili.
 
 To, že něco vypočteme, ještě neznamená, že víme jak to interpretovat. Realita není černobílá a jenoznačná. Při jakémkoliv rozhodování postupujeme podle  nějakého zjednodušeného schématu a záleží na tom jaké detaily jsou pro nás v dané chvíli důležité. Na základě toho, co je napsáno níže, rozhodneme se pro **ANO** nebo **NE**?
 
-![TakNie](../assets/img/TakNie.png)
+![TakNie](../assets/img/AnoNe.png)
 
 Kromě jiného záleží na tom, z jaké vzdálenosti se díváme.
 
