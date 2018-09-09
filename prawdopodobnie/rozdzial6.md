@@ -118,4 +118,4 @@ Umělé prodloužení délky života jedince může mít pro celou populaci nep�
 Lidé by chtěli žít věčně a hledají způsoby, jak lidský život prodloužit. Je možné, že se jim to podaří,
 ať už pomocí genetických modifikací, nebo jakýmkoliv jiným způsobem. Důsledky mohou být pro lidstvo tragické.
 
-VII. Proč si myslíme, že platí nějaké přírodní zákony?
+## [VII. Proč si myslíme, že platí nějaké přírodní zákony?](rozdzial7)
