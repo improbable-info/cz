@@ -155,4 +155,4 @@ v pravidlech, aby vznikla hodně složitá struktura. Vyvrací to jeden z čast
 drobnými změnami nemůže vzniknout něco hodně složitého. Buněčné automaty nám dávají možnost pochopit,
 že to možné je. A co se týče evoluce, trochu více si o ní povíme v následující kapitole.
 
-VI. Několik úvah o evoluci
+## [VI. Několik úvah o evoluci](rozdzial6)
