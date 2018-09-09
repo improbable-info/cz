@@ -140,4 +140,4 @@ ale tvořit nové pojmy speciálně pro potřeby dorozumět se s počítačem.
 V tuto chvíli ještě nechme stranou otázku, jaké pojmy a z jaké oblasti by tyto pojmy měly být,
 a zamysleme se obecně nad pojmem **„informace“**.
 
-## [III. Co to je informace?](rozdzial2)
+## [III. Co to je informace?](rozdzial3)
