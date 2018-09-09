@@ -1,4 +1,4 @@
-IV. Modelování skutečnosti
+## IV. Modelování skutečnosti
 
 Jak rozumět pojmům "modelování skutečnosti"? Chápání těchto pojmů může být značně rozdílné.
 Z jedné strany někdo může být přesvědčen, že modelování skutečnosti vyžaduje jakousi úroveň myšlení.
@@ -195,4 +195,4 @@ Ale pokud by počítač našel nějaké rovnice, které popisují náš svět l�
 znamenalo by to, že myslí? Asi ne. Nechme na chvíli stranou otázku, co by musel umět počítač,
 abychom uznali, že už myslí, a podívejme se, co už současné počítače dokážou.
 
-V. Intelektuální možnosti současných počítačů
+## [V. Intelektuální možnosti současných počítačů](rozdzial5)
