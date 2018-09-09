@@ -138,3 +138,21 @@ a konečně nejzajímavější skupina, kde vzniká složité chování.
 Při srovnání těchto skupin s programy odpovídá první skupina triviálním programům bez cyklů,
 druhá programům, které se triviálně zacyklí, třetí odpovídá generátoru náhodných čísel,
 a čtvrtá programům, které dělají něco zajímavého.
+
+Buněčné automaty mohou na první pohled vypadat jako zajímavá ale neužitečná hra.
+Kdysi tak mohlo skutečně být. Praktické využití buněčných automatů mohlo nastat teprve až s rozvojem počítačů.
+Dnes jsou buněčné automaty využívány v náročných paralelních simulacích,
+kde jsou jednodušší a rychlejší než klasické výpočty. Například při simulování lesních požárů,
+diferenciaci buněk v lidském těle, průchodu kapaliny přes neuspořádané geometrické struktury jako je písek,
+šíření epidemií apod.
+
+Ale buněčné automaty mohou mít též velký teoretický význam. Pomocí buněčných automatů se dá modelovat
+a pochopit některé vlastnosti našeho světa lépe než pomocí jiných metod současné vědy.
+S některými možnostmi se ještě setkáme v následujících kapitolách, ale jedné věci si všimněme hned.
+I při jednoduchých pravidlech a náhodném počátečním stavu mohou vznikat složité jevy. Přitom se může stát,
+že při nějakém počátečním stavu nevzniká nic zajímavého, ale stačí změna stavu jediné buňky nebo minimální změna
+v pravidlech, aby vznikla hodně složitá struktura. Vyvrací to jeden z často uváděných argumentů proti evoluci, že 
+drobnými změnami nemůže vzniknout něco hodně složitého. Buněčné automaty nám dávají možnost pochopit,
+že to možné je. A co se týče evoluce, trochu více si o ní povíme v následující kapitole.
+
+VI. Několik úvah o evoluci
