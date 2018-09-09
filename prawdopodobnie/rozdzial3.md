@@ -1,4 +1,4 @@
-III. Co to je informace?
+## III. Co to je informace?
 
 Shodně s tím, co jsme si pověděli v předchozí kapitole, každá definice bude neúplná a nepřesná.
 Kromě toho v různých oblastech lidské činnosti se využívá různých aspektů informace,
@@ -158,4 +158,4 @@ o některých vlastnostech originálu. Tuto druhou strukturu můžeme v jistém
 první struktury. Je zde vidět velice úzký vztah mezi informací a modelováním skutečnosti.
 A právě modelováním skutečnosti se budeme zabývat v následující kapitole.
 
-IV. Modelování skutečnosti
+## [IV. Modelování skutečnosti](rozdzial4)
