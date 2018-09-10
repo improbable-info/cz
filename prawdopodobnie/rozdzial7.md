@@ -115,4 +115,4 @@ temné hmoty a energie. Ale je možné, že ve skutečnosti je všechno úplně 
 že nemusí být úplně neužitečné vymýšlet nové modely vesmíru, které by vysvětlovaly některé jevy
 různými jinými způsoby. Několik úvah na téma možné geometrie vesmíru uvedeme v následující kapitole.
 
-VIII. Úvahy o geometrii vesmíru
+## [VIII. Úvahy o geometrii vesmíru](rozdzial8)
