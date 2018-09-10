@@ -88,4 +88,4 @@ všechna tvrzení zároveň. Například pro kvantové jevy bylo třeba zavést 
 Tady se můžeme zamyslet nad tím, jaká je souvislost mezi naší logikou a vlastnostmi vnějšího světa
 a jak hodně se může nějaká logika lišit od naší klasické logiky.
 
-X. Proč si myslíme, že myslíme logicky?
+## [X. Proč si myslíme, že myslíme logicky?](rozdzial10)
