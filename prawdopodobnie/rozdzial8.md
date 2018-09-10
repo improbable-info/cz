@@ -39,7 +39,7 @@ poloměr. Každá kružnice se ale nachází v jiném čase. Pokud si čas znáz
 kolmý do roviny řezu, pak si pozorovatel může představit, že kružnice tvoří v časoprostoru kužel
 (viz obr. VIII.1).
 
-
+![Obrázek VIII.1](../assets/img/VIII1elipsy_kuzel.png)
 
 Obr. VIII.1 Kružnice tvořící řez sférami pozorovatele si můžeme představit jako kužel v časoprostoru.
 
@@ -49,7 +49,7 @@ a v nejvzdálenější minulosti byl hodně malý. Takže kružnice netvoří v 
 ale povrch rotačního tělesa s jedním vrcholem v místě pozorovatele a druhým vrcholem v počátku času
 (viz obrázek VIII.2).
 
-
+![Obrázek VIII.2](../assets/img/VIII2elipsy2.png)
 
 Obr. VIII.2 Kružnice řezu sférami pozorovatele, které se pozorovateli jeví jako největší, musí být malé.
 
@@ -61,8 +61,7 @@ Pokud k nám světlo od vzdálených objektů přichází po zakřivených drah�
 pod kterým objekt vidíme, zaměnit na radiány. Skutečné rozměry a vzdálenosti objektů mohou být úplně jiné,
 než jak je vidí pozorovatel (viz obrázek VIII.3)
 
-
-
+![Obrázek VIII.3](../assets/img/VIII3radian.png)
 
 Obr. VIII.3 Pokud je dráha světla zakřivená, může pozorovatel P vidět úsečku AB,
 která je ve skutečnosti velmi malá, jako hodně velkou úsečku A1B1.
@@ -74,7 +73,7 @@ Jak vypadá skutečná dráha světla, to přímo zjistit nemůžeme. Pokusíme 
 jak by mohla vypadat. Provedeme ještě jeden řez sférami pozorovatele a dostaneme pouze body,
 které pozorovatel  může vidět přímo nad sebou (nebo přímo pod sebou, pokud by mu v tom nic nepřekáželo).
 
-
+![Obrázek VIII.4](../assets/img/VIII4tor1.png)
 
 Obr. VIII.4 Jak i kde vidíme vzdálené objekty a jaká je dráha světelného paprsku od objektu k pozorovateli.
 
@@ -95,7 +94,7 @@ to znamná na obrázku VIII.4 shora i zdola.
 Je ale možné, že tvar dráhy světla je v blízkosti pozorovatele více zaoblený a tečna PA2 je totožná s PA3
 (viz obrázek VIII.5):
 
-
+![Obrázek VIII.5](../assets/img/VIII5tor2.png)
 
 Obr. VIII.5 Jiná možná dráha světelného paprsku od vzdálených objektů k pozorovateli.
 
