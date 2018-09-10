@@ -221,4 +221,4 @@ a skutečnost je mnohem složitější.
 Je dobré si též uvědomit, že náš model světa určuje, co považujeme za možné a co za nemožné.
 A touto problematikou se budeme zabývat v následující kapitole.
 
-IX. Co považujeme za možné a co za nemožné
+## [IX. Co považujeme za možné a co za nemožné](rozdzial9)
