@@ -86,11 +86,11 @@ dostaneme znovu čtverec, tentokrát o délce strany rovné součtu kratších s
 
 Obr. XI.4  Čtverec vytvořený z osmi stejných pravoúhlých trojúhelníků vhodně přiléhajících k sobě.
 
-Nyní již stačí pouze analyzovat obrazec, abychom odkryli Pythagorovu větu (obr. XI.5a , obr. XI5b).
+Nyní již stačí pouze analyzovat obrazec, abychom odkryli Pythagorovu větu (obr. XI.5.a , obr. XI.5.b).
 
 ![Obrázek XI.5](../assets/img/XI5ObrTextab.png)
 
-Obr. XI.5a     Obr. XI.5b
+Obrázky XI.5.a, XI.5.b
 
 Stačí si uvědomit, že všechny trojúhelníky jsou stejné, a tedy zaznačená plocha na obrázku XI.5.b
 je stejná, jako plocha zaznačeného čtverce na obrázku XI.5.a. Nový nápad se objeví ve chvíli,
