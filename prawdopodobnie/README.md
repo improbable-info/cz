@@ -31,12 +31,12 @@
 
 [XIV. Závěr](rozdzial14)
 
-[PŘÍLOHA A Příklady buněčných automatů](https://www.mybook.pl/6/0/bid/303)
+PŘÍLOHA A Příklady buněčných automatů
 
-[PŘÍLOHA B Program v PHP pro testování buněčných automatů](https://www.mybook.pl/6/0/bid/303)
+PŘÍLOHA B Program v PHP pro testování buněčných automatů
 
-[PŘÍLOHA C Různé modely prostoročasu](https://www.mybook.pl/6/0/bid/303)
+PŘÍLOHA C Různé modely prostoročasu
 
-[PŘÍLOHA D Několik úloh pro hloubavé](https://www.mybook.pl/6/0/bid/303)
+PŘÍLOHA D Několik úloh pro hloubavé
 
 [Literatura](literatura)
