@@ -133,7 +133,7 @@ které může pracovat simultánně a nalezlo řešení rychleji, než lineárn�
 
 Příkladem úlohy, která to potvrzuje, je nalézt další člen posloupnosti na obrázku XI.6.
 
-
+![Obrázek XI.6](../assets/img/XI6o12345.png)
 
 Obr. XI.6 Jaký bude následující znak posloupnosti?
 
@@ -151,7 +151,7 @@ třeba šimpanzům. Někdy si s nimi poradí lépe než lidé. Například si ve
 Máme kruhový bazén s kruhovým ostrůvkem uprostřed a dvě desky, které jsou ale o trochu kratší,
 než je vzdálenost ze břehu na ostrůvek (obr. XI.7).
 
-
+![Obrázek XI.7](../assets/img/XI7desky.png)
 
 Obr. XI.7 Kruhový bazén s kruhovým ostrůvkem uprostřed a dvě desky.
 
