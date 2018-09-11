@@ -10,12 +10,12 @@ Je možné ale naopak tvrdit, že žádné nové nápady nikdy nevznikají, že 
 buď v mysli Boha nebo v nějaké praformě ve Vesmíru a lidé je pouze odhalují.
 Takový obraz mohl vzniknou nejen jako důsledek víry, ale též jako důsledek klasické fyziky.
 Pokud by každý stav jednoznačně vyplýval z předchozího stavu, pak by se ani nemohl zrodit žádný nový nápad,
-který by automaticky nevyplýval z minulosti. Kromě toho při aplikaci druhé termodynamické věty na celý vesmír
-– při použití nejobecnější definice informace jako opaku entropie – bychom dostali,
+který by automaticky nevyplýval z minulosti. Kromě toho při aplikaci druhé termodynamické věty
+na celý vesmír – při použití nejobecnější definice informace jako opaku entropie – bychom dostali,
 že informace ve vesmíru neustále ubývá.
 
-Teprve princip neurčitosti v kvantové fyzice dal teoretickou možnost vzniku nových nápadů – nebo obecně
-- vzniku čehokoliv nového. Pokud máme k dispozici dostatečné množství částic a dostatečně dlouhou dobu,
+Teprve princip neurčitosti v kvantové fyzice dal teoretickou možnost vzniku nových nápadů – nebo obecně - vzniku
+čehokoliv nového. Pokud máme k dispozici dostatečné množství částic a dostatečně dlouhou dobu,
 mohou vzniknout nejrozmanitější struktury, které nijak nevyplývají z počátečního stavu.
 Je zde ale jeden problém. Jak takovou užitečnou strukturu rozpoznat a zadržet.
 
@@ -57,20 +57,20 @@ jak mohl třeba Pythagoras přijít na svou známou větu o čtvercích nad stra
 
 Začneme od představy, že mohl někde na pláži otisknout do písku pravoúhlý trojúhelník  (obr. XI.1).
 
-
+![Obrázek XI.1](../assets/img/XI1trojuhelnik1.png)
 
 Obr. XI.1  Pravoúhlý trojúhelník.
 
 Pokud druhý trojúhelník vhodně přiložíme k prvnímu, dostaneme znovu pravý úhel (obr. XI.2).
 
-
+![Obrázek XI.2](../assets/img/XI2trojuhelnik2.png)
 
 Obr. XI.2  Dva stejné pravoúhlé trojúhelníky vhodně přiléhající k sobě tvoří opět pravý úhel.
 
 Ze čtyř trojúhelníků můžeme vytvořit čtverec,
 jehož strana bude rovna nejdelší straně trojúhelníka (obr. XI.3)
 
-
+![Obrázek XI.3](../assets/img/XI3ctverec1.png)
 
 Obr. XI.3  Čtyři stejné pravoúhlé trojúhelníky vhodně přiléhající k sobě vytvoří čtverec.
 
@@ -82,15 +82,15 @@ co může vést k preferování takových obrazců i u umělých neuronových s�
 Pokud budeme pokračovat v tvorbě symetrického obrazce a vhodně umístíme dokola ještě čtyři trojúhelníky,
 dostaneme znovu čtverec, tentokrát o délce strany rovné součtu kratších stran trojúhelníka (obr. XI.4).
 
-
+![Obrázek XI.4](../assets/img/XI4ctverec2.png)
 
 Obr. XI.4  Čtverec vytvořený z osmi stejných pravoúhlých trojúhelníků vhodně přiléhajících k sobě.
 
 Nyní již stačí pouze analyzovat obrazec, abychom odkryli Pythagorovu větu (obr. XI.5a , obr. XI5b).
 
+![Obrázek XI.5](../assets/img/XI5veta5ab.png)
 
-
-
+Obr. XI.5a     Obr. XI.5b
 
 Stačí si uvědomit, že všechny trojúhelníky jsou stejné, a tedy zaznačená plocha na obrázku XI.5.b
 je stejná, jako plocha zaznačeného čtverce na obrázku XI.5.a. Nový nápad se objeví ve chvíli,
