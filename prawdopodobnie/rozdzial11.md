@@ -88,7 +88,7 @@ Obr. XI.4  Čtverec vytvořený z osmi stejných pravoúhlých trojúhelníků v
 
 Nyní již stačí pouze analyzovat obrazec, abychom odkryli Pythagorovu větu (obr. XI.5a , obr. XI5b).
 
-![Obrázek XI.5](../assets/img/XI5veta5ab.png)
+![Obrázek XI.5](../assets/img/XI5ObrTextab.png)
 
 Obr. XI.5a     Obr. XI.5b
 
