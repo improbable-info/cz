@@ -28,15 +28,17 @@
 [XII. Víra, svobodná vůle a morálka lidí a počítačů](rozdzial12)
 
 [XIII. Možnosti budoucích počítačů](rozdzial13)
-
+ 
 [XIV. Závěr](rozdzial14)
 
-PŘÍLOHA A Příklady buněčných automatů
+PŘÍLOHA A Příklady buněčných automatů <sup>1)</sup>
 
-PŘÍLOHA B Program v PHP pro testování buněčných automatů
+PŘÍLOHA B Program v PHP pro testování buněčných automatů <sup>1)</sup>
 
-PŘÍLOHA C Různé modely prostoročasu
+PŘÍLOHA C Různé modely prostoročasu <sup>1)</sup>
 
-PŘÍLOHA D Několik úloh pro hloubavé
+PŘÍLOHA D Několik úloh pro hloubavé<sup>1)</sup> 
 
 [Literatura](literatura)
+
+1) v případě zájmu o přílohy napište maila
