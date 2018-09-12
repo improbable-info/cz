@@ -41,4 +41,4 @@ PŘÍLOHA D Několik úloh pro hloubavé<sup>1)</sup>
 
 [Literatura](literatura)
 
-1) v případě zájmu o přílohy napište maila
+<sup>1)</sup> v případě zájmu o přílohy napište maila
