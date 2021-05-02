@@ -2,7 +2,7 @@
 
 ### Jiří Šrajer
 
-[pl@improbable.info](mailto:pl@improbable.info)
+[jiri.szrajer@gmail.com](mailto:jiri.szrajer@gmail.com)
 
 Na začátku maila uveďte kód, který dostanete jako součet odpovědí matematických a logických úloh
 uvedených v části „Dodatečné informace“, které umíte správně vyřešit
