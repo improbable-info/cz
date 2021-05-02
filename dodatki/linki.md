@@ -6,7 +6,7 @@
 
 [Můj článek na ViXra.org](https://vixra.org/abs/2104.0059)
 
-[{Jiří GRYGAR}  https://www.astronom.cz/grygar/](https://www.astronom.cz/grygar/)
+[Jiří GRYGAR}  https://www.astronom.cz/grygar/](https://www.astronom.cz/grygar/)
 
 [Petr Kulhánek, Obecná teorie relativity](https://www.youtube.com/playlist?list=PLYYRBJzen2aCH6Mipd2zGG01MRVQZQ_V2)
 
