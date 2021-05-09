@@ -15,5 +15,4 @@ Po několikaleté intenzivní práci jsem sepsal základní idee nového modelu
 v knížce [Krátké pojednání o prostoročasu](czasoprzestrzen).
 Aktuálně pracuji nad počítačovým modelem Vesmíru podle mojich předpokladů.
 
-Pro vážné zájemce uvádím ještě [Dodatatečné informace](dodatki)
-a [Kontakt](kontakt).
+Pro vážné zájemce uvádím ještě [Dodatatečné informace a kontakt](dodatki).
