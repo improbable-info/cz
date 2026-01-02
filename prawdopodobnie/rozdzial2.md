@@ -3,8 +3,8 @@
 Podstatnou složkou lidského myšlení je operování pojmy.
 Jestliže chceme naučit počítač rozumět významu slov, musíme si nejprve uvědomit,
 odkud my víme, co dané slovo znamená.
-
-Když se nad tím zamyslíme, zjistíme, že vlastně význam slov není přesně určen
+...
+<!-- Když se nad tím zamyslíme, zjistíme, že vlastně význam slov není přesně určen
 a každý si význam slov určil sám na základě toho, v jakých situacích slova slyšel.
 Protože většina lidí mluvících jedním jazykem dané slovo užívá ve stejných situacích,
 a tyto situace vnímá podobně, mohou se lidé domluvit. To ale vůbec neznamená, že vědí,
@@ -140,4 +140,4 @@ ale tvořit nové pojmy speciálně pro potřeby dorozumět se s počítačem.
 V tuto chvíli ještě nechme stranou otázku, jaké pojmy a z jaké oblasti by tyto pojmy měly být,
 a zamysleme se obecně nad pojmem **„informace“**.
 
-## [III. Co to je informace?](rozdzial3)
+## [III. Co to je informace?](rozdzial3) -->
