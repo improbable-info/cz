@@ -8,8 +8,8 @@ ve kterém můžeme případné zakřivení ignorovat. V tom případě můžeme
 jehož reálná část představuje lokální čas a imaginární část představuje čas kosmický.
 Reálná část času může být v závislosti na pohybu pozorovatele zčásti vnímaná jako prostor,
 zatímco imaginární část zajišťuje běh času jedním směrem pro všechny pozorovatele.
-
-Jak můžeme definovat vzdálenost v takovém prostoročase? V nejjednodušším případě za předpokladu,
+...
+<!-- Jak můžeme definovat vzdálenost v takovém prostoročase? V nejjednodušším případě za předpokladu,
 že lokální čas i čas kosmický mají tutéž hodnotu, dostaneme vzorec na vzdálenost
 	
 $$ d = \sqrt {x^2+y^2+z^2+i^2*c^2*t^2+c^2*t^2}  $$,
@@ -40,4 +40,4 @@ V geometrickém modelu je též snazší přejít do zakřiveného prostoročasu
 Čas tu nebude možné popsat obvyklým komplexním číslem, protože kosmický čas odpovídající imaginárnímu číslu,
 bude poloměrem rozšiřující se koule a lokální čas utvoří spirálu na povrchu rozpínající se koule. Obraz se ještě více zkomplikuje, když přidáme zrychlený pohyb a gravitaci.
 
-## [XII. Víry a deformace prostoročasu](rozdzial12) 
+## [XII. Víry a deformace prostoročasu](rozdzial12) -->
