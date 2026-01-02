@@ -4,7 +4,8 @@ Svět, ve kterém žijeme, se občas může zdát hodně složitý. Ale vystupuj
 Například střídání dne a noci, rovnoměrný pohyb Slunce po obloze a mnoho jiných. Rovnoměrný pohyb nebo periodické jevy
 mají tu vlastnost, že se u nich dá předvídat budoucí stav. Přičemž k takovému předpovídání budoucnosti není potřebná
 žádná magie, není k tomu dokonce potřebný ani rozum. Stačí jednoduchá neuronová síť, jakou mají už dost primitivní organizmy.
-I pro ně je schopnost předvídat, co se za chvíli stane, nebo alespoň co se může v určité situaci pravděpodobně stát,
+...
+<!--I pro ně je schopnost předvídat, co se za chvíli stane, nebo alespoň co se může v určité situaci pravděpodobně stát,
 nejen velmi užitečná, ale někdy i nutná pro přežití. V hledání souvislostí a snaze předpovídání, co se stane,
 není tedy nic typicky lidského. Není to žádný problém ani pro počítačové neuronové sítě, které jsou schopné předvídat
 i mnohem složitější jevy. Podobně jako lidský mozek třídí vše do kategorií, ale lidský mozek si navíc pro všechny kategorie
@@ -115,4 +116,4 @@ temné hmoty a energie. Ale je možné, že ve skutečnosti je všechno úplně 
 že nemusí být úplně neužitečné vymýšlet nové modely vesmíru, které by vysvětlovaly některé jevy
 různými jinými způsoby. Několik úvah na téma možné geometrie vesmíru uvedeme v následující kapitole.
 
-## [VIII. Úvahy o geometrii vesmíru](rozdzial8)
+## [VIII. Úvahy o geometrii vesmíru](rozdzial8) -->
