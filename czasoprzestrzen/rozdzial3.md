@@ -9,8 +9,8 @@ Například gravitaci můžeme považovat za sílu a  popsat ji rovnicí anebo j
 *Pravděpodobně nejde jen o použítí jiného nástroje, ale i jiné mozkové hemisféry.
 Rovnicemi se zabývá levá hemisféra a geometrickou představivostí pravá.
 Proto pro plné porozumění stojí za to nejen umět něco vypočítat, ale též si to umět představit.*
-
-Čísla můžeme chápat jako abstraktní symboly nebo si je můžeme představovat jako body na přímce, nazývané číselnou osou.
+...
+<!--Čísla můžeme chápat jako abstraktní symboly nebo si je můžeme představovat jako body na přímce, nazývané číselnou osou.
 Bod odpovídající číslu x se nachází ve vzdálenosti x od bodu označeného jako nula
 (na jednu stranu kladné a na druhou záporné). Jestliže každému bodu na přímce přiřadíme právě jedno číslo,
 dostaneme tak zvaná reálná čísla.
@@ -100,4 +100,4 @@ V této fázi nemáme žádný důkaz, že prostor je konečný. Máme však dob
 takového předpokladu. Jestliže připustíme možnost, že prostor je konečný, pak z toho plyne, že nemůže být nezakřivený.
 V tom případě se musíme podívat na geometrie neeuklidovské. 
 
-## [IV. Neeuklidovské geometrie a určování vzdáleností](rozdzial4)
+## [IV. Neeuklidovské geometrie a určování vzdáleností](rozdzial4) -->
