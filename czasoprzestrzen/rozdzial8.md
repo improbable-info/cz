@@ -4,8 +4,8 @@ Většina lidí si pod pojmem prostor pravděpodobně představuje trojrozměrn�
 Dlouho nikomu ani na mysl nepřišlo, že by tomu mohlo být i jinak. Proč?
 Protože takový model dobře odpovídá fyzickému prostoru, jaký známe z každodenní zkušenosti,
 to znamená ne příliš velké vzdálenosti makroskopické.
-
-O tom, že fyzický prostor může být neeuklidovský svědčí jednak efekt zakřivení prostoru
+...
+<!-- O tom, že fyzický prostor může být neeuklidovský svědčí jednak efekt zakřivení prostoru
 vlivem hmoty, a také zkoumání vzdáleností velmi malých, kde se projevují kvantové jevy.
 
 Jestliže ale prostor není Euklidovský, tak jaký je? V matematice můžeme definovat prostor dost obecně
@@ -61,4 +61,4 @@ jiný může vnímat jako pohyb prostorem.
 V každém případě vidíme, že prostor a čas jsou nějakým způsobem propojeny a musíme je zkoumat společně.
 Velmi užitečné se ukázalo zavedení pojmu prostoročas.
 
-## [IX. První úvahy o prostoročasu ](rozdzial9)  
+## [IX. První úvahy o prostoročasu ](rozdzial9) --> 
