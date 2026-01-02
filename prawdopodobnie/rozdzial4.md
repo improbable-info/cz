@@ -4,9 +4,10 @@ Jak rozumět pojmům "modelování skutečnosti"? Chápání těchto pojmů mů�
 Z jedné strany někdo může být přesvědčen, že modelování skutečnosti vyžaduje jakousi úroveň myšlení.
 Ale na druhé straně z toho, co jsme si řekli v minulé kapitole, vyplývá, že vlastně každou informaci
 můžeme v jistém smyslu chápat jako zjednodušený model nějakého objektu nebo jevu.
-Světlo, které k nám letí od nějakého objektu, nese informaci o některých jeho vlastnostech,'
+Světlo, které k nám letí od nějakého objektu, nese informaci o některých jeho vlastnostech,
 čili v jistém smyslu reprezentuje jakýsi model tohoto objektu.
-Po dopadu světla na sítnici našeho oka vznikají nervové signály, které jsou v jisté korelaci se světlem,
+...
+<!--Po dopadu světla na sítnici našeho oka vznikají nervové signály, které jsou v jisté korelaci se světlem,
 které je způsobilo a můžeme je zase chápat jako jakýsi model těchto světelných signálů.
 To co vnímáme jako skutečnost je náš model vytvořený na podstatě nervových signálů,
 které vznikly na základě světelných signálů, které nesly informaci o jistých vlastnostech reálného objektu.
@@ -195,4 +196,4 @@ Ale pokud by počítač našel nějaké rovnice, které popisují náš svět l�
 znamenalo by to, že myslí? Asi ne. Nechme na chvíli stranou otázku, co by musel umět počítač,
 abychom uznali, že už myslí, a podívejme se, co už současné počítače dokážou.
 
-## [V. Intelektuální možnosti současných počítačů](rozdzial5)
+## [V. Intelektuální možnosti současných počítačů](rozdzial5) -->
