@@ -2,8 +2,8 @@
 
 Jestliže chceme představit model vesmíru jako buněčný automat, musíme si nejprve vyjasnit,
 co to ten buněčný automat vlastně je. Nebudeme se tu zabývat detaily, uvedeme pouze definici a jednoduchý pŕíklad. 
-
-**Buněčný automat** je objekt skládající se z sítě buněk, které mohou nabývat jeden z možných stavů z určitého souboru,
+...
+<!-- **Buněčný automat** je objekt skládající se z sítě buněk, které mohou nabývat jeden z možných stavů z určitého souboru,
 který se mění podle zadaných pravidel v závislosti na stavu sousedních buněk.
 Podle druhu sítě, možných hodnot buněk a volby algoritmu mohou existovat nejrůznějši buněčné automaty.
 Nejznámějším buněčným automatem je asi "Game of Life" ("Hra života").
@@ -26,4 +26,4 @@ V takovém modelu čas plyne shodně s naší představou o plynutí času, s t�
 jakou se mohou šířit změny v prostoru atd. Vidíme, že takový model má nejen přirozeně plynoucí čas,
 ale má též jisté kvantové vlastnosti. Může to být jedna z cest, jak modelovat vesmír...
 
-## [VIII. Několik slov o prostoru](rozdzial8)
+## [VIII. Několik slov o prostoru](rozdzial8) -->
