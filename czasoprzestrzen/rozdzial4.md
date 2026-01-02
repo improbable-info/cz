@@ -8,7 +8,7 @@ Tak moc jsme si přivykli na Euklidovskou  geometrii, že si ani neuvědomujeme,
 implicitně předpokládáme, že prostor je Euklidovský.  Abychom mohli vůbec vzít v úvahu, že tomu může být i jinak,
 musíme něco vědět o neeuklidovských geometriích. 
 
-Eukleides tvořil svou geometrii na plochém listu papíru a představoval si, že list by se dal roztáhnout
+<!--Eukleides tvořil svou geometrii na plochém listu papíru a představoval si, že list by se dal roztáhnout
 ve všech směrech do nekonečna. Možná by stačilo, aby Země byla trochu menší a lidé by hned dospěli k závěru,
 že neexistuje nekonečná rovina, že každá rovina se ohýbá  a  nakonec utvoří kouli.
 Naše představa o prostoru by byla tehdy pravděpodobně jiná.
@@ -72,4 +72,4 @@ k obecnější formě zápisu.
 Vzhledem k tomu, že v našich úvahách budeme potřebovat nejen reálná čísla, ale také čísla komplexní,
 která se denně nepoužívají, může být užitečné si něco o nich povědět.
 
-## [V. Několik úvah o komplexních číslech](rozdzial5)
+## [V. Několik úvah o komplexních číslech](rozdzial5) -->
