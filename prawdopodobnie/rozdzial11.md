@@ -5,8 +5,8 @@ Vymýšlení vyžaduje rozum a inteligenci, které kromě lidí nikdo nemá,
 a to činí lidi něčím výjimečným ve vesmíru. Zvířatům se přisuzují pouze instinkty,
 někdy hodně komplikované, ale prakticky neměnné, a že by něco nového mohl vymyslet počítač,
 to se už úplně vylučuje.
-
-Je možné ale naopak tvrdit, že žádné nové nápady nikdy nevznikají, že už existují od počátku světa
+...
+<!--Je možné ale naopak tvrdit, že žádné nové nápady nikdy nevznikají, že už existují od počátku světa
 buď v mysli Boha nebo v nějaké praformě ve Vesmíru a lidé je pouze odhalují.
 Takový obraz mohl vzniknou nejen jako důsledek víry, ale též jako důsledek klasické fyziky.
 Pokud by každý stav jednoznačně vyplýval z předchozího stavu, pak by se ani nemohl zrodit žádný nový nápad,
@@ -181,4 +181,4 @@ ale zhruba si můžeme udělat i představu, jak by to mohlo v praxi fungovat. V
 se zamyslíme nad tím, zda počítač může mít svobodnou vůli, zda může věřit ve svého stvořitele
 a zda může mít nějakou morálku.
 
-## XII. [Víra, svobodná vůle a morálka lidí a počítačů](rozdzial12)
+## XII. [Víra, svobodná vůle a morálka lidí a počítačů](rozdzial12) -->
