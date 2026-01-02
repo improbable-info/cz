@@ -3,8 +3,8 @@
 Je možné mít různé názory na evoluci, kritizovat různé evoluční teorie nebo třeba i tvrdit,
 že evoluce vůbec neexistuje. Nám zde nejde o to dokazovat, jak je to ve skutečnosti.
 Chceme jen pochopit mechanizmy, které evoluci umožňují a mohou být využité při programování počítačů.
-
-Jedním z mechanizmů, který umožňuje evoluci, je přírodní výběr. Podmínkou, aby přírodní výběr mohl existovat,
+...
+<!--Jedním z mechanizmů, který umožňuje evoluci, je přírodní výběr. Podmínkou, aby přírodní výběr mohl existovat,
 je to, že máme populaci jedinců, kteří se množí a umírají, přičemž jedinci v každé populaci se musí trochu lišit.
 Jestliže nějaká odchylka dává jedincům s touto odchylkou určitou výhodu, která zvyšuje jejich šanci na přežití
 do doby, kdy budou moci mít potomstvo, pak je vyšší pravděpodobnost, že tato odchylka bude přenesena do další generace.
@@ -118,4 +118,4 @@ Umělé prodloužení délky života jedince může mít pro celou populaci nep�
 Lidé by chtěli žít věčně a hledají způsoby, jak lidský život prodloužit. Je možné, že se jim to podaří,
 ať už pomocí genetických modifikací, nebo jakýmkoliv jiným způsobem. Důsledky mohou být pro lidstvo tragické.
 
-## [VII. Proč si myslíme, že platí nějaké přírodní zákony?](rozdzial7)
+## [VII. Proč si myslíme, že platí nějaké přírodní zákony?](rozdzial7) -->
