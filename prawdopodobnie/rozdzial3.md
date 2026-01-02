@@ -15,8 +15,8 @@ ve druhé jako korelaci mezi dvěma strukturami a ve třetí vyžadujeme příje
 Jestliže  přijmeme nějakou definici z jedné skupiny a používáme ji v situaci, která odpovídá jiné skupině,
 můžeme dostat nelogická až nesrozumitelná tvrzení, což se bohužel občas stává.
 A to například již v situaci, kdy chceme měřit informaci.
-
-Jako jednotka informace se uvádí jeden bit. Ale jaké je to množství informace?
+...
+<!--Jako jednotka informace se uvádí jeden bit. Ale jaké je to množství informace?
 Jestliže přijmeme stanovisko, že informace je to, co zmenšuje nevědomost příjemce informace,
 pak jeden bit je takové množství informace, které zmenšuje tuto nevědomost o polovinu.
 Můžeme si to znázornit na příkladu určení jednoho konkrétního pole na šachovnici.
@@ -158,4 +158,4 @@ o některých vlastnostech originálu. Tuto druhou strukturu můžeme v jistém
 první struktury. Je zde vidět velice úzký vztah mezi informací a modelováním skutečnosti.
 A právě modelováním skutečnosti se budeme zabývat v následující kapitole.
 
-## [IV. Modelování skutečnosti](rozdzial4)
+## [IV. Modelování skutečnosti](rozdzial4) -->
