@@ -1,6 +1,6 @@
 ## III. Možnosti budoucích počítačů
 
-Jak jsme si ukázali dříve, i na současných běžně dostupných počítačích je možné vytvořit něco,
+<!--Jak jsme si ukázali dříve, i na současných běžně dostupných počítačích je možné vytvořit něco,
 co bychom již mohli nazvat umělou inteligencí. Ale na vytvoření umělé inteligence, která by se blížila lidské,
 nejsou současné počítače pravděpodobně dostatečně výkonné. Ale vývoj výpočetní techniky nejen že jde neustále dopředu,
 ale ještě se neustále zrychluje. Někomu se může zdát, že se ten vývoj musí někde zastavit, nebo alespoň zpomalit,
@@ -113,4 +113,4 @@ inteligentní bytost, kterou pak poskládá z jednotlivých částic v reálném
 může být pro budoucí počítače celkem jednoduchá záležitost. Je možné, že v budoucnosti budou inteligentní roboti
 hodnotit naši inteligenci tak, jak my dnes hodnotíme inteligenci šimpanzů nebo neandrtálců.
 
-## [XIV. ZÁVĚR](rozdzial14)
+## [XIV. ZÁVĚR](rozdzial14) -->
