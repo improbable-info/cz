@@ -4,8 +4,8 @@ Jako právě každé slovo může mít slovo **logika** několik významů, kter
 různě chápat. Zde se bez nějakých hlubších analýz budeme držet názoru, že logika je způsob odvozování
 a dokazování, který se snaží o to, aby odvozování a dokazování probíhalo podle nějakých pravidel,
 která mají zajistit, že se nedopustíme chyb.
-
-Nejprve je třeba si uvědomit, že odvozování a dokazování probíhá v nějakém jazyce.
+...
+<!--Nejprve je třeba si uvědomit, že odvozování a dokazování probíhá v nějakém jazyce.
 Přitom každý přirozený jazyk je nepřesný a sémanticky neúplný. V žádném jazyku se nedá přesně vysvětlit
 význam všech jeho slov. (K tomu je potřebný metajazyk, čili bohatší jazykový systém,
 který je ale zase sémanticky neúplný, a k vysvětlení svých pojmů potřebuje ještě bohatší metajazyk atd.).
@@ -168,4 +168,4 @@ A je těžké vymyslet něco úplně nového a odlišného od všeho, co známe.
 
 Nad tím, odkud se vlastně berou nové nápady, se zamyslíme v další kapitole.
 
-## [XI. Odkud se berou nové nápady](rozdzial11)
+## [XI. Odkud se berou nové nápady](rozdzial11) -->
