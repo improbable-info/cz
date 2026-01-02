@@ -7,8 +7,8 @@ a tak těžké je ho definovat, že například britský fyzik Julian Barbour si
 že je nutné ho úplně odstranit z vědy. Protože jaká to je věda, která se opírá o tak nejasný pojem jako čas,
 který nikdo neviděl a nikdo přesně neví, co vlastně je. Barbour se pokouší celou fyziku přepracovat tak,
 aby v ní čas nevystupoval.
-
-Je pravda, že čas nemůžeme přímo pozorovat. Můžeme ale pozorovat změny probíhající v okolním prostředí
+...
+<!--Je pravda, že čas nemůžeme přímo pozorovat. Můžeme ale pozorovat změny probíhající v okolním prostředí
 a některé procesy využít jako hodiny. V praxi můžeme použít různé periodické procesy,
 jako například otáčení Země nebo pohyb kyvadla. Při různých teoretických úvahách se osvědčují světelné hodiny,
 které se skládají ze dvou zrcadel mezi kterými se odráží foton.
@@ -37,4 +37,4 @@ Jestliže směr času a rozlišení na minulost, přítomnost a budoucnost je ob
 pak potřebujeme model, který  to nějak zohledňuje. Jednou z možností je využít ideu britského fyzika
 Stephena Wolframa, jenž navrhuje modelovat vesmír jako buněčný automat. 
 
-## [VII.Vesmír jako buněčný automat](rozdzial7)
+## [VII.Vesmír jako buněčný automat](rozdzial7) -->
