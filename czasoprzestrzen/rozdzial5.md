@@ -4,7 +4,7 @@ Jak může být druhá mocnina nějakého čísla záporná, když přece druhá
 libovolného reálného čísla musí být nezáporná. No a o to právě jde, že v rámci reálných čísel neexistují
 druhé odmocniny ze záporných čísel a občas jsou potřebné.
 
-Proč vůbec lidé potřebují čísla?  Kdysi dávno se obešli i bez nich.
+<!-- Proč vůbec lidé potřebují čísla?  Kdysi dávno se obešli i bez nich.
 Můžeme předpokládat, že nejdříve byla potřebná malá přirozená čísla,  aby bylo možné spočítat členy skupiny
 nebo kusy zvířat. Během času se lidé naučili sčítat. Sečtením dvou přirozených čísel dostaneme zase přirozené číslo,
 jenom trochu větší. Horní hranice používaných čísel se zvětšovala souběžně s tím,
@@ -45,4 +45,4 @@ To znamená, že i všechny výpočty pomocí těchto čísel v sobě obsahují 
 Zdá se, že pro kosmologické výpočty by se hodil matemetický aparát, který by v geometrické interpretaci odpovídal
 geometrii neeuklidovské...
 
-## [VI. Co máme na mysli pod pojmem čas?](rozdzial6)
+## [VI. Co máme na mysli pod pojmem čas?](rozdzial6) -->
