@@ -4,8 +4,8 @@ Některé věci se nám zdají evidentně pravdivé a jiné se nám jeví jako �
 Je pro nás až nepochopitelné, jak je možné, že někdo může myslet jinak.
 V takové situaci je dobré si připomenout, že jestliže všichni myslí stejně, pak nikdo moc nemyslí.
 To, co se nám jeví jako samozřejmé, vůbec nemusí být pravda.
-
-Žádný člověk není schopen sám se přesvědčit o pravdivosti všeho, co považuje za pravdivé.
+...
+<!--Žádný člověk není schopen sám se přesvědčit o pravdivosti všeho, co považuje za pravdivé.
 Většinu názorů přijal nekriticky jako malé dítě od rodičů, ve škole od svých učitelů
 a od různých jiných autorit a bez toho, že by si to vůbec uvědomoval, prostě věří,
 že to všechno je pravda. Pokud uslyší nějaké nové tvrzení, které ještě neslyšel,
@@ -88,4 +88,4 @@ všechna tvrzení zároveň. Například pro kvantové jevy bylo třeba zavést 
 Tady se můžeme zamyslet nad tím, jaká je souvislost mezi naší logikou a vlastnostmi vnějšího světa
 a jak hodně se může nějaká logika lišit od naší klasické logiky.
 
-## [X. Proč si myslíme, že myslíme logicky?](rozdzial10)
+## [X. Proč si myslíme, že myslíme logicky?](rozdzial10) -->
