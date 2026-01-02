@@ -1,7 +1,9 @@
 ## XII. Víra, svobodná vůle a morálka lidí a počítačů
 
 Pokusme se ještě zamyslet nad několika otázkami. Může například inteligentní počítač přijít na to,
-že jej někdo stvořil? Pokud bude mít možnost zkoumat reálný svět, pak to pravděpodobně bude možné.
+že jej někdo stvořil? 
+...
+<!--Pokud bude mít možnost zkoumat reálný svět, pak to pravděpodobně bude možné.
 Bude schopen poznat lidi, jiné počítače i celý proces jejich výroby. Může z toho odvodit, že i on byl vyroben
 podobným způsobem. Ale mohou k takovému závěru dojít i inteligentní virtuální bytosti uvnitř počítače,
 které nemají možnost nahlédnout do našeho reálného světa? Zde hodně záleží na tom, jak bude vypadat jejich virtuální svět.
@@ -182,4 +184,4 @@ aby se samy vyvíjely, vymýšlely nové věci a rozvíjely se pomocí evolučn�
 k čemu se dopracují. Více o tom, jak mohou vypadat budoucí počítače a jaké mohou mít možnosti,
 si řekneme v následující kapitole.
 
-## [XIII. Možnosti budoucích počítačů](rozdzial13)
+## [XIII. Možnosti budoucích počítačů](rozdzial13) -->
