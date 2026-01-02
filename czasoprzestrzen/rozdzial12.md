@@ -1,8 +1,8 @@
 ## XII. Víry a deformace prostoročasu
 
 Pokusme se zjistit, jak bude v našem modelu vypadat zrychlený pohyb a gravitace.
-
-Vraťme se na chvíli k našemu modelu dvourozměrného plochého prostoročasu.
+...
+<!-- Vraťme se na chvíli k našemu modelu dvourozměrného plochého prostoročasu.
 
 Jestliže se od nás někdo vzdaloval rovnoměrným přímočarým pohybem,
 pak dráha jeho pohybu v prostoročasu byla přímka nakloněná pod úhlem,
@@ -49,4 +49,4 @@ a orbitální rychlost hvězd poblíž středu galaxie musí být menší.
 
 Podle našeho modelu celý vesmír je pouze vířícím a vlnícím se prostoročasem...
 
-## [XIII. Závěr](rozdzial13) 
+## [XIII. Závěr](rozdzial13) -->
