@@ -3,8 +3,8 @@
 Někteří lidé jsou přesvědčeni, že počítače žádnou inteligenci nemají a ani nikdy mít nebudou,
 a jsou jiní, kteří tvrdí opak. Nejprve je třeba porozumět, co si každý z nich představuje pod pojmem inteligence,
 a pak se zamyslet nad jejich argumentací.
-
-Jak jsme si již dříve ukázali, každá definice je neúplná a nepřesná.
+...
+<!--Jak jsme si již dříve ukázali, každá definice je neúplná a nepřesná.
 Pod pojmem inteligence si každý může představovat něco jiného.
 Jestliže někdo považuje za inteligentní pouze lidi a od umělé inteligence vyžaduje,
 aby byla nerozlišitelná od lidské, pak pravděpodobně má pravdu v tom, že počítače takovou inteligenci mít nemohou.
@@ -155,4 +155,4 @@ v pravidlech, aby vznikla hodně složitá struktura. Vyvrací to jeden z čast
 drobnými změnami nemůže vzniknout něco hodně složitého. Buněčné automaty nám dávají možnost pochopit,
 že to možné je. A co se týče evoluce, trochu více si o ní povíme v následující kapitole.
 
-## [VI. Několik úvah o evoluci](rozdzial6)
+## [VI. Několik úvah o evoluci](rozdzial6) -->
