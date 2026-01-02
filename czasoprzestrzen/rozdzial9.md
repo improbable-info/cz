@@ -5,8 +5,8 @@ mathjax: true
 
 Pojem prostoročasu existoval už v klasické mechanice, kde znamenal kartézský součin Euklidovského prostoru a času.
 Čas zde byl dodatečným rozměrem, ale byl nezávislý na prostoru a měřil se v jiných jednotkách.
-
-Že čas a prostor mohou tvořit jeden objekt, ve kterém se mohou jakýmsi způsobem míchat a vyměňovat,
+...
+<!-- Že čas a prostor mohou tvořit jeden objekt, ve kterém se mohou jakýmsi způsobem míchat a vyměňovat,
 si první uvědomil matematik Hermann Minkowski. Našel též způsob, jak pomocí čtyřrozměrného prostoročasu
 jednodušším způsobem představit speciální teorii relativity.
 
@@ -59,4 +59,4 @@ Pro vzdálenost v prostoročasu pak dostaneme rychlost světla krát čas minus 
 Jak tedy určovat vzdálenosti v prostoročasu? Jestli chceme nalézt odpověď na tuto otázku,
 musíme se nejdříve vrátit k prvním úvahám o čase i prostoročase a pokusit se hledat řešení ještě jednou od začátku.
 
-## [X. Princip relativity v prostoročasu ](rozdzial10) 
+## [X. Princip relativity v prostoročasu ](rozdzial10) -->
