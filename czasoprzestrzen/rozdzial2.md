@@ -6,7 +6,7 @@ Na základě našich zkušeností z malých vzdáleností se domníváme, že vi
 z kterého k nám přichází od nich světlo a ve vzdálenosti rovné dráze světla od objektu k nám.
 Obecně to nemusí být pravda ...*
 
-Moje první úvahy o geometrii vesmíru probíhaly zhruba následujícím způsobem:
+<!--Moje první úvahy o geometrii vesmíru probíhaly zhruba následujícím způsobem:
 
 Vzhledem na konečnou rychlost světla nevidíme objekty na nebi tak, jak vypadají v tuto chvíli,
 ale tak, jak vypadaly před nějakým časem. Slunce vidíme tak, jak vypadalo před okolo 8 minutami,
@@ -117,4 +117,4 @@ až po určování vzdáleností v něm. Potom musíme  určit, při jakých př
 a které z těch předpokladů mohou být změněné. Nakonec musíme najít nějaké nové možnosti.
 Tu se neobejdeme bez trošky matematiky, pokusím se to udělat co nejpřístupnější formou.
 
-## [III. Matematika a mozek](rozdzial3)
+## [III. Matematika a mozek](rozdzial3) -->
