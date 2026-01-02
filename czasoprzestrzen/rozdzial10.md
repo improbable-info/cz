@@ -2,7 +2,8 @@
 
 Vždy stojí za to pro analýzu vybrat co nejjednodušší model.
 Proto naše úvahy začneme od jednorozměrného prostoru, který si můžeme představit ve formě přímky **p**, ve kterém máme nehybného pozorovatele **O**. Jestliže přidáme čas jako přímku **t** kolmou k prostoru **p**, dostaneme dvourozměrný prostoročas (obr. 8).
-
+...
+<!--
 ![Obrázek8](../assets/img/rysunek8.png)
 
 Obrázek 8
@@ -67,4 +68,4 @@ a čas kosmický ve směru rozšiřování se vesmíru, který je v daném míst
 a týká se i světla. V takovém modelu není narušena zásada kauzality, protože i v případě,
 že lokální čas dvou pozorovatelů běží v opačném směru, čas kosmický zajistí, že sled událostí je zachován.
 
-## [XI. Komplexní čas a prostoročasový interval ](rozdzial11) 
+## [XI. Komplexní čas a prostoročasový interval ](rozdzial11) -->
